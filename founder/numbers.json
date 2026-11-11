@@ -1,7 +1,7 @@
 {
   "business": "Hess Cafe (morning caf\u00e9 inside Mamali, 70 Christopher St)",
   "unit": "drink",
-  "price": 6.94,
+  "price": 6.81,
   "variable": [
     {
       "label": "Ingredients + cup (avg of founder's 8-drink cost sheet)",
@@ -9,7 +9,7 @@
     },
     {
       "label": "Rent: 30% revenue share to Mamali",
-      "cost": 2.08
+      "cost": 2.04
     },
     {
       "label": "Card fee: Square 2.6% + $0.15",

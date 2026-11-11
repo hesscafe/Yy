@@ -73,7 +73,7 @@ Built from `panel/results.md` and `panel-v2/results.md` (20 simulated buyers), `
 
 - Each drink leaves about **$3.12** on average (`pricing.md` / the cost sheet).
 - In the re-test, buyers said they'd buy about **2.4 times in the first month** (31 purchases ÷ 13 buyers).
-- So a new customer is worth about **$3.49 × 2.4 ≈ $8.40** in month one, before income tax (mixed menu, `cfo.md`).
+- So a new customer is worth about **$3.40 × 2.4 ≈ $8.15** in month one, before income tax (mixed menu, `cfo.md`).
 - **Spend no more than about $5 to win one customer** for now. That's why the plan uses free drinks (costing about $1 in ingredients) and the window, not paid ads.
 
 ## Three numbers to watch every week

@@ -4,14 +4,14 @@
 
 **Verdict: Profitable, on a guessed 60 drinks a day.** The verdict is computed, not written by hand, and all four checks pass. It rests on the founder's estimate of 60 drinks a day, which the 2-week test (Nov 30 – Dec 12) has to confirm.
 
-**The menu (main plan):** regular espresso drinks +$1 (flat white and cortado $6, cappuccino $7.50, latte $8), plain matcha $7, chai $6, Americano $4, signature drinks $8, pastries $6. See `pricing.md`.
+**The menu (main plan):** regular espresso drinks +$1 (flat white and cortado $6, cappuccino and latte $7.50), plain matcha $7, chai $6, Americano $4, signature drinks $8, pastries $6. See `pricing.md`.
 
 **The three numbers** (from `cfo.md`):
-- **Margin:** each drink leaves **$3.49** (50%). The profit margin at 60 a day is **49%**.
+- **Margin:** each drink leaves **$3.40** (50%). The profit margin at 60 a day is **49%**.
 - **Break-even:** **2 drinks a day.** Fixed costs are only about $140 a month: no fixed rent, no utilities, no wages.
-- **Year 1:** **$57,301** operating profit on $117,286 of revenue, ramping from 30 to 60 drinks a day over 6 months. With 10% fewer drinks it's $51,403. At half the volume, $27,811.
+- **Year 1:** **$55,780** operating profit on $115,089 of revenue, ramping from 30 to 60 drinks a day over 6 months. With 10% fewer drinks it's $50,034. At half the volume, $27,050.
 
-**But it's your pay, not profit on top of pay.** $57,301 is about $28,650 each for you and your mom, or about **$14.50 an hour** before tax for ~76 hours a week together. That's still below NYC's $17 minimum wage. Rent at 25% would add $5,746 a year, and pastries about $6,500.
+**But it's your pay, not profit on top of pay.** $55,780 is about $27,890 each for you and your mom, or about **$14.10 an hour** before tax for ~76 hours a week together. That's still below NYC's $17 minimum wage. Rent at 25% would add $5,746 a year, and pastries about $6,500.
 
 **The board (second review): 3 fund if, average 5.7 / 10** (up from 4.7). All three ask for the same things first: a signed deal with Mamali, a real named matcha, and a launch menu cut to 2 signature drinks.
 

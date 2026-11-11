@@ -6,14 +6,14 @@
 |---|---|---|---|---|
 | Flat white, cortado | $5 | **$6** | $2.85 / $2.99 | +$1 is in line with nearby specialty coffee |
 | Cappuccino | $6.50 | **$7.50** | $3.79 | +$1 |
-| Latte, iced latte | $7 | **$8** | $4.06 / $4.24 | +$1 |
+| Latte, iced latte | $7 | **$7.50** | $3.73 / $3.90 | +$0.50 (founder's choice: keeps the latte at the cappuccino price) |
 | Plain matcha latte (hot / iced) | $7 | **$7** (no change) | $3.55 / $3.73 | The drink people taste and compare with Matchaful (~$12.59 listed). Buyers already put it near their limit |
 | Chai latte | $6 | **$6** (no change) | $2.70 | Already the weakest margin, but not an espresso drink |
 | $4 Americano | — | **$4** | about $1.76 | The commuter hook |
 | **Signature lattes and torched-meringue hot chocolate** | $8 | **$8** | depends on the extra cost (estimated $0.50–1.00) | At the top of the first panel's range; the +$1 test moved buyers' range up to $8.50, but they anchor to the menu shown |
 | Pastries (Balthazar) | $5–6 | **$6** | about $0.94–1.94 | At $5, a $3 pastry leaves about $0.27 |
 
-**Average price of the 8 regular drinks: $6.94** (was $6.31). Each drink leaves **$3.49** on average (was $3.07). See `cfo.md`.
+**Average price of the 8 regular drinks: $6.81** (was $6.31). Each drink leaves **$3.40** on average (was $3.07). See `cfo.md`.
 
 **Expected effect on buyers:** not re-tested on the panel. The full +$1 menu lost about 10% of purchases (`pricing-plus1.md`). The mixed menu keeps matcha, chai and the Americano unchanged, so the drop should be smaller, somewhere between 0% and 10%. The 2-week test will tell.
 
@@ -30,7 +30,7 @@ Price sensitivity is in `pricing-curve.md` (20 simulated buyers): acceptable ran
 
 ## The ladder
 
-1. **Good:** $4 Americano or a regular espresso drink, $6–8. Fast, the commuter's coffee.
+1. **Good:** $4 Americano or a regular espresso drink, $6–7.50. Fast, the commuter's coffee.
 2. **Better:** plain matcha latte, $7. Name the grade and origin on the menu, which is what makes it worth $7.
 3. **Best:** signature latte or torched-meringue hot chocolate, $8. The photo drink.
 - **Add-on:** + pastry at $6. Don't discount the bundle. Pastry margins are already thin.

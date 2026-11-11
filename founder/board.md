@@ -40,6 +40,8 @@ See `pricing-plus1.md`. Simulated buyers: 13 → **11 of 20** buy, purchases 31 
 
 **Decision (founder, 2026-11-11): the mixed menu is the main plan.** Regular espresso drinks +$1, plain matcha $7, chai $6, Americano $4, signature drinks $8. CFO at 60 a day: $3.49 left per drink, **year 1 $57,301** (was $50,203). It beats the old prices unless more than about 12% of drinks are lost. Not re-tested on the panel.
 
+**Change (founder, 2026-11-11): latte and iced latte at $7.50, not $8.** Average price $6.81, $3.40 left per drink, **year 1 $55,780** at 60 a day. Beats the old prices unless more than about 10% of drinks are lost.
+
 ## First meeting details
 
 ## Risks raised by more than one member (most serious first)
