@@ -1,6 +1,6 @@
 # Board verdict: Hess Cafe
 
-**Vote: 3 fund if, 0 pass. Average score: 4.7 / 10** (Offers 5, Monopoly 4, Product 5)
+**First meeting vote: 3 fund if, 0 pass. Average score: 4.7 / 10.** Second meeting: 3 fund if, average 5.7 (see below). (Offers 5, Monopoly 4, Product 5)
 
 The board would back a cheap, time-limited test, not the business as pitched. Because rent is only a share of revenue, no utilities are paid and start-up costs are about $2,000, the downside is small. What isn't proven yet is whether customers will find the café, how fast it can serve them, and whether the deal with the bar protects the founder.
 
