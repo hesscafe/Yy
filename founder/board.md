@@ -15,17 +15,24 @@ The board would back a cheap, time-limited test, not the business as pitched. Be
 
 ## Conditions checklist
 
-- [ ] Signed agreement with the bar: at least 12 months, a written notice period, exclusivity for the morning coffee slot, the founder owns the recipes and brand, and signage is allowed outside in the morning. *(founder, `/founder-ops`)*
-- [ ] Written confirmation of equipment access and condition, permit and health-inspection cover for morning food service, and who carries liability. *(`/founder-ops`)*
+- [x] Morning signage: a frame and posters on the front glass are allowed.
+- [ ] Signed agreement with the bar: at least 12 months, a written notice period, exclusivity for the morning coffee slot, and the founder owns the recipes and brand. *(founder, `/founder-ops`)*
+- [x] Equipment: the bar provides it. *(answered by the founder; still check its condition and capacity in the dry run)*
+- [x] Permit: the founder has it.
+- [ ] Who carries liability (the founder's insurance or the bar's). *(`/founder-ops`)*
 - [ ] Cost per drink for every item, plus prices for the hot chocolate and regular coffee. *(`/founder-cfo`)*
 - [ ] The number of drinks a day needed to break even after the revenue share, with a weekday/weekend estimate and the reasoning behind it. *(`/founder-cfo`, `/founder-consumer`)*
 - [ ] Shorter launch menu: 2–3 signature drinks plus basic espresso and drip. Add drinks back only once peak-hour service is fast enough. *(`/founder-offer`)*
-- [ ] A weekday commuter reason to come: speed or pre-order, a punch card or subscription, or a simple pastry add-on. *(`/founder-offer`)*
+- [~] A weekday commuter reason to come: pastries and regular espresso drinks are now on the menu (no drip). Still to add: speed or pre-order, and a punch card. Note that every coffee now goes through the espresso machine, so peak-hour speed matters more. *(`/founder-offer`)*
 - [ ] A timed dry run with the real staffing, and a target time from order to drink for the morning rush. *(`/founder-ops`)*
 - [ ] A plan for the street and the room at 7am: signage, lighting, cups and music, all removable and within budget. *(`/founder-brand`)*
 - [ ] A 2–4 week paid test with real prices, before spending on décor. Track drinks a day by weekday vs. weekend, and the mix of signature vs. regular drinks. *(`/founder-launch`)*
 - [ ] One signature drink to be known for, a rotating "drink of the week", a remake guarantee and a loyalty card. *(`/founder-offer`, `/founder-brand`)*
 - [ ] Map the competitors within a 5-minute walk, including any that already sell flavoured matcha or dessert lattes. *(`/founder-competitors`)*
+
+## Update after the founder's answers
+
+The founder confirmed: the bar provides the equipment, a frame and posters can go on the front glass, the regular coffee menu is espresso-based with no drip, pastries are added, and the founder has the permit. That clears three of the biggest unknowns (equipment, permit, visibility) and part of the commuter gap. The board did not re-vote. Still open: the written terms of the deal, liability, cost per drink and pastry costs, staffing, and peak-hour speed. Without drip, every coffee is made to order.
 
 ## Where the members disagree
 
