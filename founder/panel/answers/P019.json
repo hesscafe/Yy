@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "When I'm in the Village on a weekend I'm already headed to Matchaful for my matcha, and I'm not detouring into what looks like a shut bar at 9am. The cherry pie matcha sounds fun, but I'd probably walk right past without realizing it's open.",
+  "objection": "It looks like a closed bar, not a café, so I wouldn't even know it's serving coffee, and I don't know if an $8 matcha from a bar pop-up is actually good.",
+  "would_change_my_mind": "Seeing the strawberry cheesecake or cherry pie matcha on Instagram or TikTok, or a big obvious sign or sandwich board outside saying it's open for coffee right now.",
+  "price_too_cheap": 4,
+  "price_cheap": 6,
+  "price_expensive": 9,
+  "price_too_expensive": 11
+}

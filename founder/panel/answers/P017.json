@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I already get my matcha at Matchaful most mornings and I know it's good. A café inside another place with dessert-flavored lattes doesn't tell me anything about the matcha itself, so I'd just keep walking to my usual spot.",
+  "objection": "Is the matcha actually good quality, or is it hidden under strawberry cheesecake syrup? Nothing here says what matcha they use.",
+  "would_change_my_mind": "Telling me the matcha's grade and where it comes from, or a free taste of a plain matcha latte on my way to the train.",
+  "price_too_cheap": 4,
+  "price_cheap": 5.5,
+  "price_expensive": 7.5,
+  "price_too_expensive": 9
+}

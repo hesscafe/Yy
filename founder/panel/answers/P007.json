@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "It's a brand-new café tucked inside another business with no Google reviews yet, and I don't try places blind, especially at $8 for a dessert-flavored latte. I'd wait a month or two and see what the ratings say before I spend my morning stop there.",
+  "objection": "No reviews to go on, and a café inside someone else's bar space with only a few seats feels like a pop-up that might not be good or might not last.",
+  "would_change_my_mind": "A solid Google rating (4.5+ with a decent number of reviews) saying the regular flat white is actually good, not just photogenic.",
+  "price_too_cheap": 3,
+  "price_cheap": 4.5,
+  "price_expensive": 7,
+  "price_too_expensive": 9
+}

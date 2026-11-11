@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "quality",
+  "reason": "It's right at my subway exit and a strawberry cheesecake matcha is something I'd try once out of curiosity. Whether I come back depends entirely on whether the matcha underneath is actually good or just sugar and syrup.",
+  "objection": "$8 is a lot for a latte, and flavored matchas are often low-grade powder hidden under sweet toppings. They don't say anything about where the matcha comes from or what grade it is.",
+  "would_change_my_mind": "Naming the matcha source and grade (ceremonial, a named Uji farm) would make me a regular instead of a two-time visitor.",
+  "price_too_cheap": 4,
+  "price_cheap": 5.5,
+  "price_expensive": 7.5,
+  "price_too_expensive": 9.5
+}

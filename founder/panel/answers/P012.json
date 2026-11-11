@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": true,
+  "purchases_first_month": 3,
+  "reason_code": "quality",
+  "reason": "A cherry pie matcha or a torched-meringue hot chocolate is exactly the kind of thing I'd try once and post, and it's a few blocks from my dog walk. I'd go for the novelty, but at $8 it's a treat a few times a month, not my daily coffee.",
+  "objection": "From the sidewalk it looks like a closed bar, not a café. If I can't tell it's open at 7am with the dog, I'll walk right past, and I'm not sure I can bring the dog in.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 4,
+  "price_cheap": 6,
+  "price_expensive": 8,
+  "price_too_expensive": 11
+}

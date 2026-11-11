@@ -28,11 +28,34 @@ The board would back a cheap, time-limited test, not the business as pitched. Be
 - [ ] A plan for the street and the room at 7am: signage, lighting, cups and music, all removable and within budget. *(`/founder-brand`)*
 - [ ] A 2–4 week paid test with real prices, before spending on décor. Track drinks a day by weekday vs. weekend, and the mix of signature vs. regular drinks. *(`/founder-launch`)*
 - [ ] One signature drink to be known for, a rotating "drink of the week", a remake guarantee and a loyalty card. *(`/founder-offer`, `/founder-brand`)*
-- [ ] Map the competitors within a 5-minute walk, including any that already sell flavoured matcha or dessert lattes. *(`/founder-competitors`)*
+- [x] Map the competitors within a 5-minute walk. Done: see `competitors.md`. No nearby shop found selling dessert-flavoured matcha. Matchaful (87 Christopher St) opens at 8:30am with a matcha latte listed at about $12.59.
+- [ ] **New: confirm Mamali stops serving its own morning coffee.** Public listings describe Mamali as a café with espresso drinks and breakfast, with one listing showing a 7:30am opening. Also ask about the space's licensing status: a CB2 filing from April 2025 recommended denying its wine licence.
 
 ## Update after the founder's answers
 
 The founder confirmed: the bar provides the equipment, a frame and posters can go on the front glass, the regular coffee menu is espresso-based with no drip, pastries are added, and the founder has the permit. That clears three of the biggest unknowns (equipment, permit, visibility) and part of the commuter gap. The board did not re-vote. Still open: the written terms of the deal, liability, cost per drink and pastry costs, staffing, and peak-hour speed. Without drip, every coffee is made to order.
+
+## Update after the competitor research and buyer panel (2026-11-11)
+
+**Competitors** (`competitors.md`): there is a real gap before 8:30am, because nobody nearby sells premium or dessert-flavoured matcha that early. At $7–8, Hess Cafe would be cheaper than Matchaful. The new biggest risk is the host itself: Mamali appears to run its own café in the mornings.
+
+**Buyer panel** (`panel/results.md`, 20 simulated buyers, so treat the numbers as an upper bound):
+- **12 buy · 8 pass (60%).** Buyers would come about 1.5–2 times in the first month (median 1.5), so it would start as an occasional stop, not a daily one.
+- **Weekday commuters are the weak spot: 2 of 7 buy (29%).** They pass because of habit (they already have a café that knows their order) and trust (no reviews yet). West Village residents (5 of 6) and weekend visitors (3 of 5) buy.
+- **Concerns buyers repeated:**
+  1. Is the matcha good quality, or hidden under syrup?
+  2. The $8 dessert lattes sound too sweet.
+  3. It looks like a closed bar from the street.
+  4. With no drip, there's no fast, cheap coffee.
+- **Price answers (median):** a bargain at $5, getting expensive at $7.25, too expensive at $9. The $8 signature drinks sit above the "getting expensive" point for most buyers. The $5–7 regular drinks are fine.
+- **What would turn a no into a yes:** naming the matcha's grade and origin, a free taste for commuters, a Google rating of 4.5 or higher, a sandwich board or obvious "open" sign, and posts on Instagram or TikTok.
+
+**Drinks a day is still unknown.** The panel shows who buys and how often, but not how many people walk past. A 2-week test with a tally is the only reliable way to get the number. Until then, use the CFO scenarios: 40 drinks a day is about $3,200 a month and 80 is about $6,500 (6 days a week, drinks only, before income tax).
+
+**Board conditions this changes:**
+- Name the matcha's grade and origin on the menu. This is the most repeated reason buyers hesitate. *(`/founder-offer`)*
+- Test the signature drinks at $7 as well as $8, and offer a less-sweet option. *(`/founder-pricing`)*
+- The board's concern about weekday commuters is confirmed. Consider batch brew or an Americano at about $4 for speed, plus a punch card.
 
 ## Where the members disagree
 

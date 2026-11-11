@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I only commute two days a week and I already have my spot that knows my order and gets me out in two minutes. A brand-new place tucked inside another bar with no reviews isn't worth risking a slow line and an $8 dessert latte before my train.",
+  "objection": "No reviews yet. I don't know if the regular flat white is actually good or if it's mostly a photo-op drink place, and I don't know how fast they are at 8am.",
+  "would_change_my_mind": "Solid reviews saying the plain flat white is excellent and service is fast, or a coworker vouching for it, and I'd try it once on an office day.",
+  "price_too_cheap": 3,
+  "price_cheap": 4.5,
+  "price_expensive": 6.5,
+  "price_too_expensive": 8
+}

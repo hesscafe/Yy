@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "habit",
+  "reason": "I'd probably grab one flat white to see what the new place by the subway is like, but I already have my spot and my order, and nothing here gives me a reason to change my morning. The $8 dessert lattes are not for me.",
+  "objection": "I want the same good coffee fast every morning. A place built around photogenic $8 cheesecake matchas feels like it'll have weekend lines of tourists, and no drip coffee means no quick cheap cup.",
+  "would_change_my_mind": "If the flat white is genuinely better than my usual and I can be in and out in two minutes, I'd consider making it a regular stop on my office days.",
+  "price_too_cheap": 3,
+  "price_cheap": 4.5,
+  "price_expensive": 6,
+  "price_too_expensive": 8
+}

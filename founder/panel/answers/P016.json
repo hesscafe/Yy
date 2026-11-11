@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "habit",
+  "reason": "It's on my block and my Saturday coffee is the one I actually spend on, so I'd probably grab a flat white and a Balthazar croissant there a couple of weekends. Weekdays I'm not paying $5-7 with no drip option, and I'd skip the $8 dessert lattes.",
+  "objection": "The signature drinks sound like sugar bombs for Instagram, not coffee, and with no drip there's nothing for a normal weekday cup, so it's only ever an occasional stop.",
+  "would_change_my_mind": "A less-sweet version of the signatures, or a basic $3-4 drip or batch brew, would make it my weekday stop instead of just a weekend one.",
+  "price_too_cheap": 3,
+  "price_cheap": 4.5,
+  "price_expensive": 7,
+  "price_too_expensive": 9
+}
