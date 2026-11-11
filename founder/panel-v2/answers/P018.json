@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "quality",
+  "reason": "My Saturday walk is when I spend on something special, and a hot chocolate with torched meringue or a half-sweet halva latte is something I'd try and photograph. It's right at the subway exit I come out of, so it's an easy first stop, but I'd treat it as an occasional weekend thing, not every week.",
+  "objection": "Dessert lattes usually taste like syrup in a cup. Even half-sweet, I worry I'll pay $7.50 for something cloying that looks better than it tastes.",
+  "would_change_my_mind": "If the first one is genuinely sickly even half-sweet, I wouldn't come back; if it's balanced, I'd make it a regular weekend stop.",
+  "price_too_cheap": 4,
+  "price_cheap": 5.5,
+  "price_expensive": 8,
+  "price_too_expensive": 9.5
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "quality",
+  "reason": "A hot chocolate with torched meringue or a cherry pie matcha is exactly the kind of drink I'd stop for on a weekend walk and post. I'd try one or two of the signature drinks, but at $7.50 I'm not making it a weekly habit unless it actually looks and tastes as good as it sounds.",
+  "objection": "No drip coffee, so if I just want a quick black coffee it's slower, and I don't know yet if these drinks look good enough on camera to justify $7.50 over the places I already go.",
+  "would_change_my_mind": "Seeing photos of the drinks first, especially the torched meringue, so I know they're worth the trip and the price.",
+  "price_too_cheap": 3.5,
+  "price_cheap": 5.5,
+  "price_expensive": 8,
+  "price_too_expensive": 10
+}

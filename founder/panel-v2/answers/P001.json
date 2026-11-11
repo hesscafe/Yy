@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I'm only commuting two days a week and I already have my spot where they know my order and I'm out in two minutes. A new place with $7.50 dessert lattes and no reviews isn't worth risking a slow line on the mornings I'm actually rushing.",
+  "objection": "No reviews yet, so I have no idea if it's fast or if the coffee is any good, and the signature drinks sound like sugary Instagram bait rather than an everyday drink.",
+  "would_change_my_mind": "Seeing a solid number of good reviews saying it's quick in the morning, or a coworker vouching for the plain matcha, so the switch doesn't feel like a gamble.",
+  "price_too_cheap": 3,
+  "price_cheap": 4.5,
+  "price_expensive": 6.5,
+  "price_too_expensive": 8
+}

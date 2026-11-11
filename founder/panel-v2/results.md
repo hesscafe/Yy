@@ -1,0 +1,65 @@
+# Buyer panel: Hess Cafe (morning café inside Mamali bar, 70 Christopher St, West Village, NYC)
+
+**13 buy · 7 pass** (65% buy) out of 20 simulated buyers. Seed 320801, so the same cards can be dealt again.
+
+These are simulated buyers, not customers. Use this to find objections and weak spots, then confirm the big ones with real people before you spend.
+
+## By segment
+
+| group | buyers | buy rate |
+| --- | ---: | ---: |
+| Student or young creative | 2 | 100%  (thin) |
+| West Village resident | 6 | 83%  (thin) |
+| Weekend visitor / tourist | 5 | 60%  (thin) |
+| Weekday commuter (works in Manhattan, uses the 1 train) | 7 | 43%  (thin) |
+
+## By buying behaviour
+
+| group | buyers | buy rate |
+| --- | ---: | ---: |
+| Matcha fan | 3 | 100%  (thin) |
+| Trend chaser | 4 | 100%  (thin) |
+| Weekend treat | 3 | 100%  (thin) |
+| Daily regular | 4 | 50%  (thin) |
+| Loyal to their café | 2 | 50%  (thin) |
+| Price-conscious | 2 | 0%  (thin) |
+| Reads every review | 2 | 0%  (thin) |
+
+## By income
+
+| group | buyers | buy rate |
+| --- | ---: | ---: |
+| $97,000 to $118,000 | 7 | 71%  (thin) |
+| under $97,000 | 6 | 67%  (thin) |
+| $118,000 and up | 7 | 57%  (thin) |
+
+## Why they pass
+
+| reason | buyers | in their words |
+| --- | ---: | --- |
+| habit | 3 | "I'm only commuting two days a week and I already have my spot where they know my order and I'm out in two minutes. A new place with $7.50 dessert lattes and no reviews isn't worth risking a slow line on the mornings I'm actually rushing." (P001) · "I already have my café; they know my order and I get a proper seat there. A $7.50 cheesecake matcha I'd have to drink standing at a subway exit isn't enough to pull me away." (P006) |
+| price | 2 | "I'd happily take a free sip of the plain matcha on my way to the 1 train, and naming the grade and farm is a good sign, but $7 for a plain matcha latte is past what I spend on a drink. The $7.50 dessert lattes aren't for me at all." (P004) · "I'm only in the West Village some weekends, and $7.50 for a flavored latte is well past what I pay for a drink. The free matcha sips are weekday mornings only, so they don't help me, and from the street it looks like a bar that happens to be open, not somewhere I'd stop for coffee." (P008) |
+| trust | 2 | "I don't try anywhere new until I've read the reviews, and a brand-new café tucked inside another shop won't have a Google rating yet. Matchaful is right there and I already know what I'm getting, so I'm not risking $7.50 on a cheesecake matcha I know nothing about on my way to the train." (P007) · "I only pass that exit two mornings a week, and it's a brand-new spot inside what honestly looks like a closed bar with zero Google reviews. I'm not going to gamble $7.50 on a cherry pie matcha from a place I can't look up first when I have my usual coffee on the way." (P013) |
+
+## Why they buy
+
+| reason | buyers | in their words |
+| --- | ---: | --- |
+| quality | 7 | "It's right at my subway exit and they name the matcha's grade and farm, which almost nobody does, so I'd take the free sip and probably buy the plain matcha latte. The strawberry cheesecake stuff I'd try once at most; I don't need sugar bombs." (P003) · "It's on my dog-walk route and they name the grade and farm and let me taste the plain matcha for free, so I can check the quality before paying. If the sip is good I'll grab a plain matcha latte on the way back a few times, but I'll skip the cheesecake and cherry pie stuff." (P005) |
+| other | 4 | "A torched-meringue hot chocolate and a strawberry cheesecake matcha right at my subway exit are exactly the kind of thing I'd try once and post. But on my budget it's a treat for content, not a daily swap for the coffee place I already go to." (P009) · "A strawberry cheesecake matcha or a torched-meringue hot chocolate is exactly the kind of thing I'd grab on the dog walk and post, and it's right by my train. But it's a novelty for me, not my daily coffee, so a few tries to shoot the menu and then we'll see." (P012) |
+| habit | 1 | "It's right at my subway exit, so I'd probably grab a free matcha sip one morning and maybe buy one drink to try it, but my regular spot already knows my order and I'm not switching. Strawberry cheesecake matcha for $7.50 sounds like a weekend novelty, not my weekday coffee." (P002) |
+| need | 1 | "It's literally on my dog-walk route, so on a Saturday or Sunday I'd grab the plain matcha with the named farm as my weekend treat. The dessert lattes I'd probably skip, and on weekdays I'm sticking with my cheap coffee." (P014) |
+
+## What would flip a no
+
+- Seeing a solid number of good reviews saying it's quick in the morning, or a coworker vouching for the plain matcha, so the switch doesn't feel like a gamble.
+- A plain matcha latte at $6 or less, or the punch card getting me there sooner, after the free sip shows me it's actually good quality.
+- Being sure of a real seat on a weekend morning. Then I might try one of the signature drinks once as a treat.
+- Seeing it hold a 4.5+ Google rating with a few dozen real reviews after a month or two; then the free matcha sip on my way past at 8am would get me to try it.
+- A signature drink at $6 or less, or a weekend tasting or intro price, so I could try one without paying $7.50 up front.
+- Seeing a solid Google rating (4.5+ with a few dozen reviews) or a friend posting the halva latte. Then I'd use the free matcha sip as an excuse to try it.
+- If my usual place closed or got slow, and their $4 Americano turned out to be good and fast, I'd switch over.
+
+Buyers say they would buy **2.4 times** in the first month on average.
+
+20 buyers gave all four price answers. Run founder-pricing's van_westendorp.py on the answers folder.

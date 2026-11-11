@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": true,
+  "purchases_first_month": 4,
+  "reason_code": "quality",
+  "reason": "It's right at my subway exit and they name the matcha's grade and farm, which almost nobody does, so I'd take the free sip and probably buy the plain matcha latte. The strawberry cheesecake stuff I'd try once at most; I don't need sugar bombs.",
+  "objection": "$7 for a matcha latte is steep, and naming a farm doesn't guarantee it isn't bitter, clumpy or watered down with too much milk.",
+  "would_change_my_mind": "If the tasting sip is dull or the matcha tastes like cheap culinary grade, I wouldn't come back even with the punch card.",
+  "price_too_cheap": 3.5,
+  "price_cheap": 5,
+  "price_expensive": 7,
+  "price_too_expensive": 9
+}

@@ -27,7 +27,7 @@ The board would back a cheap, time-limited test, not the business as pitched. Be
 - [ ] A timed dry run with the real staffing, and a target time from order to drink for the morning rush. *(`/founder-ops`)*
 - [ ] A plan for the street and the room at 7am: signage, lighting, cups and music, all removable and within budget. *(`/founder-brand`)*
 - [ ] A 2–4 week paid test with real prices, before spending on décor. Track drinks a day by weekday vs. weekend, and the mix of signature vs. regular drinks. *(`/founder-launch`)*
-- [ ] One signature drink to be known for, a rotating "drink of the week", a remake guarantee and a loyalty card. *(`/founder-offer`, `/founder-brand`)*
+- [x] A rotating "drink of the week", a remake guarantee and a loyalty card (see `offer.md`). Still to pick: the one signature drink to be known for. *(`/founder-offer`, `/founder-brand`)*
 - [x] Map the competitors within a 5-minute walk. Done: see `competitors.md`. No nearby shop found selling dessert-flavoured matcha. Matchaful (87 Christopher St) opens at 8:30am with a matcha latte listed at about $12.59.
 - [ ] **New: confirm Mamali stops serving its own morning coffee.** Public listings describe Mamali as a café with espresso drinks and breakfast, with one listing showing a 7:30am opening. Also ask about the space's licensing status: a CB2 filing from April 2025 recommended denying its wine licence.
 
@@ -56,6 +56,14 @@ The founder confirmed: the bar provides the equipment, a frame and posters can g
 - Name the matcha's grade and origin on the menu. This is the most repeated reason buyers hesitate. *(`/founder-offer`)*
 - Test the signature drinks at $7 as well as $8, and offer a less-sweet option. *(`/founder-pricing`)*
 - The board's concern about weekday commuters is confirmed. Consider batch brew or an Americano at about $4 for speed, plus a punch card.
+
+## Update after pricing and the offer (2026-11-11)
+
+- **Price** (`pricing.md`): keep regular drinks at $5–7 and plain matcha at $7. Move the **signature drinks to $7.50** and test against $8, because $8 sat at the edge of the acceptable range. Sell **pastries at $6**. Add a **$4 Americano** for commuters.
+- **Offer** (`offer.md`): "The 6am Matcha on Christopher St". It names the matcha's grade and farm, gives free tasting sips 6–9am on weekdays, offers half-sweet on request, serves regular drinks first during the rush, and adds a remake guarantee, a punch card and a drink of the week. Estimated cost is about $5–7 a day at launch.
+- **Re-test:** 12 → **13 of 20 buy**, commuters 2 → **3 of 7**, first-month purchases 24 → **31**.
+- **Conditions ticked:** offer stack, guarantee and loyalty ✅. Shorter launch menu: still open. The board suggested 2–3 signature drinks, and the pitch still lists 5.
+- **New for the founder:** tell us your matcha supplier, grade and origin. The offer depends on naming it truthfully.
 
 ## Where the members disagree
 

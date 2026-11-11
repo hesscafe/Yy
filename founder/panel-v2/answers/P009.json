@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "other",
+  "reason": "A torched-meringue hot chocolate and a strawberry cheesecake matcha right at my subway exit are exactly the kind of thing I'd try once and post. But on my budget it's a treat for content, not a daily swap for the coffee place I already go to.",
+  "objection": "$7.50 is a lot for me, and once I've posted the pretty ones I don't see why I'd keep paying that instead of my usual cheaper coffee.",
+  "would_change_my_mind": "A new drink of the week that actually looks different each week, or a cheaper small size of the signature drinks, would get me back more often.",
+  "price_too_cheap": 3,
+  "price_cheap": 5,
+  "price_expensive": 7,
+  "price_too_expensive": 9
+}

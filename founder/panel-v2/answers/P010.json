@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "quality",
+  "reason": "It's right at my subway exit and they name the grade and farm, so I'd take a free sip and probably buy a plain matcha latte once or twice to compare it to Matchaful. The cheesecake and cherry pie matchas sound like sugar bombs for Instagram, not for someone who actually drinks matcha.",
+  "objection": "Matchaful is a block away and I already trust it. A café inside another shop doing dessert-flavored matcha makes me doubt the matcha is the point, and with barely any seats I can't even sit down to taste it properly.",
+  "would_change_my_mind": "If the free sip is actually ceremonial-grade and better than Matchaful at $7, I'd switch my weekday stop here and use the punch card.",
+  "price_too_cheap": 4,
+  "price_cheap": 5.5,
+  "price_expensive": 7.5,
+  "price_too_expensive": 9
+}

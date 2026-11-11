@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": true,
+  "purchases_first_month": 3,
+  "reason_code": "need",
+  "reason": "It's literally on my dog-walk route, so on a Saturday or Sunday I'd grab the plain matcha with the named farm as my weekend treat. The dessert lattes I'd probably skip, and on weekdays I'm sticking with my cheap coffee.",
+  "objection": "Dessert lattes sound too sweet and gimmicky, like they're made for Instagram tourists, and $7-7.50 is a lot for me even as a treat.",
+  "would_change_my_mind": "If the half-sweet version actually tasted balanced and not like syrup, I might try a signature drink instead of the plain one.",
+  "price_too_cheap": 3.5,
+  "price_cheap": 5,
+  "price_expensive": 7,
+  "price_too_expensive": 9
+}
