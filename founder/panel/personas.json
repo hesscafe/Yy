@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Clara",
+  "age": 32,
+  "segment": "Weekday commuter (works in Manhattan, uses the 1 train)",
+  "income": 124000,
+  "behaviour": "Daily regular",
+  "behaviour_how": "Buys the same drink at the same place most mornings and wants it fast.",
+  "objection": "No reviews yet",
+  "habit": "you work from home three days a week"
+ },
+ {
+  "id": "P002",
+  "name": "Marco",
+  "age": 28,
+  "segment": "West Village resident",
+  "income": 118000,
+  "behaviour": "Loyal to their café",
+  "behaviour_how": "Has a favourite spot nearby and the staff know their order.",
+  "objection": "I already have a coffee place on my route",
+  "habit": "you take the 1 train from Christopher St–Stonewall on weekdays"
+ },
+ {
+  "id": "P003",
+  "name": "Nora",
+  "age": 31,
+  "segment": "Weekend visitor / tourist",
+  "income": 115000,
+  "behaviour": "Matcha fan",
+  "behaviour_how": "Drinks matcha several times a week and knows the difference in quality.",
+  "objection": "$7–8 is a lot for a latte",
+  "habit": "you take the 1 train from Christopher St–Stonewall on weekdays"
+ },
+ {
+  "id": "P004",
+  "name": "Celine",
+  "age": 40,
+  "segment": "Weekday commuter (works in Manhattan, uses the 1 train)",
+  "income": 60000,
+  "behaviour": "Price-conscious",
+  "behaviour_how": "Watches what a drink costs and avoids anything over about $6.",
+  "objection": "Is the matcha good quality?",
+  "habit": "you walk past Matchaful on Christopher St"
+ },
+ {
+  "id": "P005",
+  "name": "Levi",
+  "age": 20,
+  "segment": "West Village resident",
+  "income": 204000,
+  "behaviour": "Matcha fan",
+  "behaviour_how": "Drinks matcha several times a week and knows the difference in quality.",
+  "objection": "No reviews yet",
+  "habit": "you live a few blocks away and walk your dog in the morning"
+ },
+ {
+  "id": "P006",
+  "name": "Maya",
+  "age": 46,
+  "segment": "Weekend visitor / tourist",
+  "income": 82000,
+  "behaviour": "Loyal to their café",
+  "behaviour_how": "Has a favourite spot nearby and the staff know their order.",
+  "objection": "Nowhere to sit",
+  "habit": "you take the 1 train from Christopher St–Stonewall on weekdays"
+ },
+ {
+  "id": "P007",
+  "name": "Anya",
+  "age": 42,
+  "segment": "Weekday commuter (works in Manhattan, uses the 1 train)",
+  "income": 138000,
+  "behaviour": "Reads every review",
+  "behaviour_how": "Checks Google ratings before trying anywhere new.",
+  "objection": "Nowhere to sit",
+  "habit": "you walk past Matchaful on Christopher St"
+ },
+ {
+  "id": "P008",
+  "name": "Bilal",
+  "age": 41,
+  "segment": "Weekend visitor / tourist",
+  "income": 97000,
+  "behaviour": "Price-conscious",
+  "behaviour_how": "Watches what a drink costs and avoids anything over about $6.",
+  "objection": "It looks like a closed bar, not a café",
+  "habit": "you work from home three days a week"
+ },
+ {
+  "id": "P009",
+  "name": "Yara",
+  "age": 49,
+  "segment": "Student or young creative",
+  "income": 26000,
+  "behaviour": "Trend chaser",
+  "behaviour_how": "Tries new and photogenic drinks and posts them on Instagram or TikTok.",
+  "objection": "I already have a coffee place on my route",
+  "habit": "you take the 1 train from Christopher St–Stonewall on weekdays"
+ },
+ {
+  "id": "P010",
+  "name": "Sol",
+  "age": 20,
+  "segment": "Weekday commuter (works in Manhattan, uses the 1 train)",
+  "income": 110000,
+  "behaviour": "Matcha fan",
+  "behaviour_how": "Drinks matcha several times a week and knows the difference in quality.",
+  "objection": "Nowhere to sit",
+  "habit": "you walk past Matchaful on Christopher St"
+ },
+ {
+  "id": "P011",
+  "name": "Tariq",
+  "age": 51,
+  "segment": "West Village resident",
+  "income": 74000,
+  "behaviour": "Trend chaser",
+  "behaviour_how": "Tries new and photogenic drinks and posts them on Instagram or TikTok.",
+  "objection": "No drip coffee, so a quick black coffee is slower",
+  "habit": "you visit the West Village on weekends to walk around and take photos"
+ },
+ {
+  "id": "P012",
+  "name": "Oscar",
+  "age": 47,
+  "segment": "Weekday commuter (works in Manhattan, uses the 1 train)",
+  "income": 101000,
+  "behaviour": "Trend chaser",
+  "behaviour_how": "Tries new and photogenic drinks and posts them on Instagram or TikTok.",
+  "objection": "It looks like a closed bar, not a café",
+  "habit": "you live a few blocks away and walk your dog in the morning"
+ },
+ {
+  "id": "P013",
+  "name": "Rosa",
+  "age": 28,
+  "segment": "Weekday commuter (works in Manhattan, uses the 1 train)",
+  "income": 106000,
+  "behaviour": "Reads every review",
+  "behaviour_how": "Checks Google ratings before trying anywhere new.",
+  "objection": "It looks like a closed bar, not a café",
+  "habit": "you work from home three days a week"
+ },
+ {
+  "id": "P014",
+  "name": "Finn",
+  "age": 36,
+  "segment": "Student or young creative",
+  "income": 43000,
+  "behaviour": "Weekend treat",
+  "behaviour_how": "Cheap coffee on weekdays, something special on Saturday or Sunday.",
+  "objection": "Dessert lattes sound too sweet",
+  "habit": "you live a few blocks away and walk your dog in the morning"
+ },
+ {
+  "id": "P015",
+  "name": "Arjun",
+  "age": 32,
+  "segment": "Weekend visitor / tourist",
+  "income": 103000,
+  "behaviour": "Trend chaser",
+  "behaviour_how": "Tries new and photogenic drinks and posts them on Instagram or TikTok.",
+  "objection": "I already have a coffee place on my route",
+  "habit": "you visit the West Village on weekends to walk around and take photos"
+ },
+ {
+  "id": "P016",
+  "name": "Ravi",
+  "age": 32,
+  "segment": "West Village resident",
+  "income": 236000,
+  "behaviour": "Weekend treat",
+  "behaviour_how": "Cheap coffee on weekdays, something special on Saturday or Sunday.",
+  "objection": "Dessert lattes sound too sweet",
+  "habit": "you take the 1 train from Christopher St–Stonewall on weekdays"
+ },
+ {
+  "id": "P017",
+  "name": "Olivia",
+  "age": 22,
+  "segment": "Weekday commuter (works in Manhattan, uses the 1 train)",
+  "income": 74000,
+  "behaviour": "Daily regular",
+  "behaviour_how": "Buys the same drink at the same place most mornings and wants it fast.",
+  "objection": "Is the matcha good quality?",
+  "habit": "you walk past Matchaful on Christopher St"
+ },
+ {
+  "id": "P018",
+  "name": "Callum",
+  "age": 47,
+  "segment": "West Village resident",
+  "income": 108000,
+  "behaviour": "Weekend treat",
+  "behaviour_how": "Cheap coffee on weekdays, something special on Saturday or Sunday.",
+  "objection": "Dessert lattes sound too sweet",
+  "habit": "you visit the West Village on weekends to walk around and take photos"
+ },
+ {
+  "id": "P019",
+  "name": "Jordan",
+  "age": 22,
+  "segment": "Weekend visitor / tourist",
+  "income": 135000,
+  "behaviour": "Daily regular",
+  "behaviour_how": "Buys the same drink at the same place most mornings and wants it fast.",
+  "objection": "It looks like a closed bar, not a café",
+  "habit": "you walk past Matchaful on Christopher St"
+ },
+ {
+  "id": "P020",
+  "name": "Jonah",
+  "age": 49,
+  "segment": "West Village resident",
+  "income": 182000,
+  "behaviour": "Daily regular",
+  "behaviour_how": "Buys the same drink at the same place most mornings and wants it fast.",
+  "objection": "$7–8 is a lot for a latte",
+  "habit": "you work from home three days a week"
+ }
+]

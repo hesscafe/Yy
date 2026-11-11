@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "other",
+  "reason": "A strawberry cheesecake matcha or a torched-meringue hot chocolate right at my subway exit is exactly the kind of thing I'd try and post. But on my income it's a once-or-twice treat for the photo, not a daily stop. My regular coffee place stays my regular.",
+  "objection": "$8 is a lot for me, and once I've posted it I don't know if I'd come back. If it doesn't look as good as it sounds, I've wasted money I don't really have.",
+  "would_change_my_mind": "A cheaper or smaller version of the signature drinks, around $6, would turn it from a one-time photo into something I'd actually come back for.",
+  "price_too_cheap": 3,
+  "price_cheap": 5,
+  "price_expensive": 7.5,
+  "price_too_expensive": 10
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I already have my café; they know my order and I get a proper seat there. A $7.50 cheesecake matcha I'd have to drink standing at a subway exit isn't enough to pull me away.",
+  "objection": "Nowhere to sit. 'A few seats' inside someone else's shop at a busy subway exit sounds like I'd be holding a pricey drink on the sidewalk.",
+  "would_change_my_mind": "Being sure of a real seat on a weekend morning. Then I might try one of the signature drinks once as a treat.",
+  "price_too_cheap": 3,
+  "price_cheap": 5,
+  "price_expensive": 7,
+  "price_too_expensive": 9
+}

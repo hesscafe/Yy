@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "other",
+  "reason": "I'm only in the West Village some weekends, and a strawberry cheesecake matcha is the kind of thing I'd try once for the photo and the novelty. It won't replace my usual morning spot back home, so it's one visit, maybe two.",
+  "objection": "Honestly, from the street it looks like a closed bar, not a café. If the chalkboard isn't obvious I just walk past to Matchaful, where I already know what I'm getting.",
+  "would_change_my_mind": "A storefront that obviously reads as an open café in the morning, with the signature drinks visible from the sidewalk, would get me in more reliably.",
+  "price_too_cheap": 4,
+  "price_cheap": 6,
+  "price_expensive": 8.5,
+  "price_too_expensive": 11
+}

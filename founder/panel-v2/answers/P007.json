@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I don't try anywhere new until I've read the reviews, and a brand-new café tucked inside another shop won't have a Google rating yet. Matchaful is right there and I already know what I'm getting, so I'm not risking $7.50 on a cheesecake matcha I know nothing about on my way to the train.",
+  "objection": "Zero reviews, and it's a counter inside someone else's store with a few seats, so it feels like a pop-up that might not last. Nowhere to sit doesn't matter much on a commute, but it tells me this isn't a real café yet.",
+  "would_change_my_mind": "Seeing it hold a 4.5+ Google rating with a few dozen real reviews after a month or two; then the free matcha sip on my way past at 8am would get me to try it.",
+  "price_too_cheap": 4,
+  "price_cheap": 5.5,
+  "price_expensive": 7.5,
+  "price_too_expensive": 9
+}

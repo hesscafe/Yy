@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "price",
+  "reason": "If I'm in the Village on a weekend and come up out of the subway right there, I might grab a regular cortado or flat white once, since those are in my range. The $8 signature lattes are exactly what I'd skip, and I'm not a local, so it's at most one stop a month.",
+  "objection": "Eight dollars for a latte is way over what I pay, and walking into a bar at 8am feels odd. From the street it would look closed, and I'd probably walk past to a place that actually looks like a café.",
+  "would_change_my_mind": "A clear café sign outside in the morning, plus a signature drink at $6 or a deal like a pastry and regular coffee for under $10.",
+  "price_too_cheap": 2.5,
+  "price_cheap": 4,
+  "price_expensive": 6,
+  "price_too_expensive": 8
+}

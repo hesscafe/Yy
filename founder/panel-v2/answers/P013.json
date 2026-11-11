@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I only pass that exit two mornings a week, and it's a brand-new spot inside what honestly looks like a closed bar with zero Google reviews. I'm not going to gamble $7.50 on a cherry pie matcha from a place I can't look up first when I have my usual coffee on the way.",
+  "objection": "No reviews and no track record, and the setup inside a bar at 6am makes me wonder whether it's a real café or a side hustle that'll be gone in two months.",
+  "would_change_my_mind": "Seeing a solid Google rating (4.5+ with a few dozen reviews) or a friend posting the halva latte. Then I'd use the free matcha sip as an excuse to try it.",
+  "price_too_cheap": 3.5,
+  "price_cheap": 5,
+  "price_expensive": 7.5,
+  "price_too_expensive": 9.5
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason": "I'd take the free sip on my way to the 1 train since it costs me nothing, and if the matcha is actually as good as what I get at Matchaful I'd buy a plain latte a couple of times to compare. I'm not switching my daily spot unless it's clearly better and just as fast.",
+  "reason_code": "quality",
+  "objection": "Is the matcha actually good, or is it a dessert-drink place where the matcha is an afterthought? And I already have my Matchaful order that I know is fast and consistent.",
+  "would_change_my_mind": "If the plain matcha is noticeably better than Matchaful's at the same speed, the punch card would make me switch most mornings.",
+  "price_too_cheap": 4,
+  "price_cheap": 5.5,
+  "price_expensive": 7.5,
+  "price_too_expensive": 9
+}

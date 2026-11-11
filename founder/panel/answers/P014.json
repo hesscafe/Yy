@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "convenience",
+  "reason": "It's on my dog-walk route, so on a couple of Saturday mornings I'd grab a cortado or flat white as my weekend treat. I'd skip the $8 dessert lattes entirely, and with no drip coffee it's not my weekday spot.",
+  "objection": "The signature drinks sound like sugar bombs for tourists, and $6-7 for a regular espresso drink is a lot on my budget when I just want a decent coffee.",
+  "would_change_my_mind": "A cheap drip or batch brew around $3 would make it my weekday stop too; a less sweet signature option might get me to try one.",
+  "price_too_cheap": 2.5,
+  "price_cheap": 4,
+  "price_expensive": 6,
+  "price_too_expensive": 8
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason": "I already have my morning spot and my order, and I'm in and out in two minutes. Dessert-flavored lattes at $7.50 aren't what I drink every day, so there's nothing here that pulls me off my routine.",
+  "reason_code": "habit",
+  "objection": "$7–8 is a lot for a latte, and a cherry pie matcha is a treat, not a daily coffee. I don't know if they're fast enough at 8am for a regular who just wants his drink.",
+  "would_change_my_mind": "If my usual place closed or got slow, and their $4 Americano turned out to be good and fast, I'd switch over.",
+  "price_too_cheap": 2.5,
+  "price_cheap": 4,
+  "price_expensive": 6,
+  "price_too_expensive": 8
+}

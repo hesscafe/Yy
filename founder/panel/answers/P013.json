@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I'm only at that subway exit two mornings a week, and I don't try anywhere new until it has a real Google rating. A brand-new café inside a bar, with no reviews yet, isn't where I'm spending $8 on my way to work.",
+  "objection": "It looks like a closed bar, not a café. I'd honestly walk past it, and with zero reviews I have no idea whether the drinks are good or just made for Instagram.",
+  "would_change_my_mind": "Seeing it at 4.5 stars or higher on Google with a decent number of reviews that say the matcha is actually good, plus a clear café sign out front so I know it's open in the morning.",
+  "price_too_cheap": 3,
+  "price_cheap": 5,
+  "price_expensive": 7.5,
+  "price_too_expensive": 9.5
+}

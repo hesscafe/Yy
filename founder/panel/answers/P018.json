@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "convenience",
+  "reason": "I'm already walking past that subway exit on weekend mornings with my camera, so I'd stop for a flat white or cortado and a Balthazar pastry as my Saturday treat. I'd skip the dessert lattes though.",
+  "objection": "Strawberry cheesecake matcha and cherry pie lattes sound like sugar in a cup, and $8 for that is more about the Instagram photo than the coffee. If the plain espresso isn't genuinely good, I won't come back.",
+  "would_change_my_mind": "If the regular flat white turned out mediocre or the line was full of people filming their drinks, I'd go back to my usual spot.",
+  "price_too_cheap": 3.5,
+  "price_cheap": 5,
+  "price_expensive": 7,
+  "price_too_expensive": 9
+}
