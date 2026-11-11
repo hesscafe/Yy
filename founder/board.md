@@ -4,6 +4,38 @@
 
 The board would back a cheap, time-limited test, not the business as pitched. Because rent is only a share of revenue, no utilities are paid and start-up costs are about $2,000, the downside is small. What isn't proven yet is whether customers will find the café, how fast it can serve them, and whether the deal with the bar protects the founder.
 
+## Second board meeting (2026-11-11): review of everything
+
+**Vote: 3 fund if, 0 pass. Average score: 5.7 / 10** (was 4.7). Offers 6 (was 5), Monopoly 5 (was 4), Product 6 (was 5). Memos are in `board/round2/`.
+
+**What moved the scores:**
+- A real gap was found: no premium or dessert matcha before 8:30am nearby.
+- The offer now answers buyers' doubts (named matcha, free sip, half-sweet, $4 Americano, remake guarantee).
+- The cost per drink is known (about $3.07), and there are no fixed costs.
+- A dated test with a pass line written in advance comes before any décor spend.
+- Ops covers both of you during the rush.
+
+**What all three still flag (most serious first):**
+1. **Nothing is signed with Mamali, and Mamali may sell its own morning coffee.** All three make this the first condition. The Monopoly lens would **pass** if Mamali won't stop selling morning coffee.
+2. **The named matcha isn't real yet.** "Farm on the menu" moved buyers the most, but no supplier, grade or quote exists. Don't print or post it until it's true.
+3. **The menu is too big for the 6–9am rush.** The board asked to cut it, and it grew instead. All three now ask for 2–3 signature drinks at launch, with the rest rotating as the drink of the week.
+
+**New point (Offers lens):** at the 40-drinks pass line, about $3,200 a month for two people's ~300–350 hours is about **$9–11 an hour** before tax. Add a pay line to the test: what hourly take-home makes this worth it for you?
+
+**Disagreement:** the Offers lens says stop leading with "cheaper than Matchaful" and lead with "earlier, taste it first, flavours nobody else makes". The Monopoly lens says the earlier hours alone can be copied, and only one signature drink people seek out will hold the position. The Product lens says matcha quality is the spine and the show drink is secondary.
+
+**Conditions still standing (merged):**
+- [ ] Signed agreement with Mamali before Nov 30: 12+ months, notice, **Mamali stops serving coffee 6am–12pm**, equipment and repairs, liability, recipes and brand yours.
+- [ ] DOHMH confirms the permit covers you at 70 Christopher St. General liability insurance in place.
+- [ ] Matcha supplier quote with grade, farm and price per gram, fitting $0.39 a drink. Taste it. Cost each signature recipe.
+- [ ] Launch menu: 2 signature drinks (best matcha one + torched hot chocolate), plain matcha, espresso basics, Americano. Others rotate as drink of the week.
+- [ ] Dry run on Nov 24: 20 mixed orders timed, regular drinks under 2 minutes at the median.
+- [ ] Stand outside at 6am with the window set up and photograph it. Fix it if it still looks like a closed bar.
+- [ ] Run the 2-week test and judge on real numbers, plus a pay-per-hour line you set yourself.
+- [ ] Add a weekend tasting sip for visitors (Offers lens).
+
+## First meeting details
+
 ## Risks raised by more than one member (most serious first)
 
 1. **The deal with the bar (all 3).** The term, notice period, exclusivity, equipment use, morning signage and permit cover are all unknown. The bar could end the deal or copy the menu once it is proven to work.
