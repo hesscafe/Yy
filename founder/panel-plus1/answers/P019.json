@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I'm only in the Village for the weekend and I'm already walking to Matchaful, where I know what I'm getting. A chalkboard on a bar window doesn't make me think it's a real café, so I keep walking.",
+  "objection": "It looks like a closed bar, not a café. I don't want to walk into a bar at 9am and find out the matcha is an afterthought.",
+  "would_change_my_mind": "Seeing that strawberry cheesecake matcha in someone's hand or on Instagram, so I know it's a real café drink worth the detour.",
+  "price_too_cheap": 4,
+  "price_cheap": 6,
+  "price_expensive": 9,
+  "price_too_expensive": 12
+}

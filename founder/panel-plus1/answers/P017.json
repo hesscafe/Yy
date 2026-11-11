@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "quality",
+  "reason": "I'd grab the free sip on my way out of the subway, and since they name the grade and farm, I'd probably buy a plain matcha latte once or twice to compare it with Matchaful. But Matchaful is my place, and I'm not giving up my morning routine unless this is clearly better.",
+  "objection": "Is the matcha actually as good as Matchaful's, or are the dessert-flavored drinks just covering up average matcha? Also, a café inside another shop might be slow when I'm rushing to the train.",
+  "would_change_my_mind": "If the plain matcha tastes noticeably better than what I get now and they can have it ready in under three minutes, I'd switch for good and use the punch card.",
+  "price_too_cheap": 4,
+  "price_cheap": 6,
+  "price_expensive": 8.5,
+  "price_too_expensive": 10
+}

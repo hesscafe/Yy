@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I only pass that exit two mornings a week, and a chalkboard in the window of what looks like a closed bar isn't enough for me to try somewhere with no Google rating yet. I'd walk past and check back once it has reviews.",
+  "objection": "It looks like a closed bar, not a café, and there are zero reviews to tell me the $8.50 drinks are actually good and not just pretty.",
+  "would_change_my_mind": "Seeing a solid Google rating (4.5+ with a few dozen reviews) or a friend vouching for the matcha; the free tasting sip might get me to stop if it was clearly a café from the street.",
+  "price_too_cheap": 4,
+  "price_cheap": 6,
+  "price_expensive": 8,
+  "price_too_expensive": 10
+}

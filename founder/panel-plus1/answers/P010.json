@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": true,
+  "purchases_first_month": 3,
+  "reason_code": "quality",
+  "reason": "It's right at my subway exit and they name the grade and farm, so I'd take the free sip and buy a plain matcha to see if it actually beats Matchaful. The cheesecake and cherry pie stuff isn't for me, and at $8 it has to be really good or I go back to my usual spot.",
+  "objection": "Naming a farm is easy. If the plain matcha tastes like the sweet syrupy stuff on the rest of the menu, $8 is too much and Matchaful is a block away. Barely any seats doesn't matter for my commute, but it's not somewhere I'd hang out.",
+  "would_change_my_mind": "If the tasting sip is bitter or flat, I'm out. If it's ceremonial-quality and properly whisked, I'd switch from Matchaful for weekday mornings.",
+  "price_too_cheap": 4,
+  "price_cheap": 6,
+  "price_expensive": 8,
+  "price_too_expensive": 10
+}

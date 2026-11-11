@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I already have my morning spot and my drink, and they know my order. Strawberry cheesecake matcha at $8.50 isn't what I want at 7am, and I'm not changing my routine for a $5 Americano I can get anywhere.",
+  "objection": "$7–8 is a lot for a latte, and dessert drinks with a weekend photo line don't sound fast.",
+  "would_change_my_mind": "If my regular place closed or got slow, and this one could hand me a good plain latte or Americano in under two minutes, I'd switch.",
+  "price_too_cheap": 2.5,
+  "price_cheap": 4,
+  "price_expensive": 6,
+  "price_too_expensive": 8
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "quality",
+  "reason": "It's on my block and Saturday is when I treat myself, so I'd try the plain matcha since they name the farm and grade. The cheesecake and cherry pie stuff isn't for me, and on weekdays I'm sticking with my cheap coffee.",
+  "objection": "The menu leans hard on dessert drinks, which sounds too sweet, and $8 for a matcha only makes sense if it's actually top-tier and not just another sugary Instagram place.",
+  "would_change_my_mind": "If the first plain matcha tastes mediocre or bitter, I won't come back; if it's excellent I'd make it my regular weekend stop.",
+  "price_too_cheap": 4,
+  "price_cheap": 6,
+  "price_expensive": 8.5,
+  "price_too_expensive": 11
+}

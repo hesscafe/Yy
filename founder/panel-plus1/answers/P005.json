@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": true,
+  "purchases_first_month": 4,
+  "reason_code": "quality",
+  "reason": "It's on my dog-walk route and they name the grade and farm, so I'd grab a free sip one morning and if it's actually good ceremonial-style matcha I'd get the plain latte. I'd skip the cheesecake and cherry pie stuff, that's for the weekend photo crowd.",
+  "objection": "No reviews yet, and a café inside another shop could be using mediocre matcha drowned in syrup. Naming a farm doesn't prove they whisk it properly.",
+  "would_change_my_mind": "If the free sip tastes bitter or grassy-flat, or the oat milk overwhelms it, I'm out after one.",
+  "price_too_cheap": 4.5,
+  "price_cheap": 6,
+  "price_expensive": 8.5,
+  "price_too_expensive": 11
+}

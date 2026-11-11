@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "quality",
+  "reason": "A café that names the matcha's grade and farm on the menu and lets me taste it free before paying is exactly what makes me try a new matcha spot, and it's right at my station. I'd try the plain matcha once and, if it's good, come back on a weekend for the strawberry cheesecake one half-sweet.",
+  "objection": "$8 for a plain matcha latte and $8.50 for the flavoured ones is a lot, and the dessert-style drinks sound like they could be sugar with a bit of matcha hidden in it.",
+  "would_change_my_mind": "If the tasting sip shows ceremonial-grade matcha that's whisked properly and not bitter or watery, I'd make it a weekly habit instead of an occasional treat.",
+  "price_too_cheap": 4,
+  "price_cheap": 5.5,
+  "price_expensive": 7.5,
+  "price_too_expensive": 9.5
+}

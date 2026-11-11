@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I don't try anywhere new until I've read the Google reviews, and a brand-new café tucked inside another shop has none yet. $8.50 for a dessert-flavored matcha I can't vouch for is a gamble I won't take on my way to the 1 train when Matchaful is right there.",
+  "objection": "It's new with no track record, and it's a café squeezed inside Mamali with barely any seats. I can't tell from a chalkboard whether it's any good or whether it'll even last.",
+  "would_change_my_mind": "A solid Google rating (4.5+ with a decent number of reviews) after a few weeks, or a free tasting sip on my way past that's actually good.",
+  "price_too_cheap": 3,
+  "price_cheap": 5,
+  "price_expensive": 7.5,
+  "price_too_expensive": 9.5
+}

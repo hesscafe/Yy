@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "My spot already knows my order and I'm in and out in two minutes before the 1 train. I might take a free sip of the matcha walking past, but I'm not swapping my daily coffee for an $8.50 dessert latte.",
+  "objection": "I already have a coffee place on my route, and these signature drinks sound like weekend-tourist sugar bombs rather than something I'd drink every morning.",
+  "would_change_my_mind": "If my usual place closed or got slow, or if the plain matcha tasting was genuinely better than anything near me, I'd give the $8 matcha a real try.",
+  "price_too_cheap": 3,
+  "price_cheap": 4.5,
+  "price_expensive": 7,
+  "price_too_expensive": 9
+}

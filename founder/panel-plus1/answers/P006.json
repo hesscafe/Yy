@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I already have my spot near the station where they know my order and I can actually sit down for a minute. A takeaway counter with a few seats and $8.50 dessert lattes isn't going to pull me off my routine.",
+  "objection": "Nowhere to sit. If I'm paying $8 or more for a drink I want a proper seat, not to stand around a subway exit or grab one of a few stools.",
+  "would_change_my_mind": "If my usual café closed or was packed one morning, I'd try the $5 Americano or a free matcha sip on the way to the train. But that's a one-off, not a switch.",
+  "price_too_cheap": 3,
+  "price_cheap": 4.5,
+  "price_expensive": 6.5,
+  "price_too_expensive": 8.5
+}

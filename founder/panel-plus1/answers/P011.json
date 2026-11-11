@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": true,
+  "purchases_first_month": 3,
+  "reason_code": "quality",
+  "reason": "A hot chocolate with torched meringue or a strawberry cheesecake matcha is exactly the kind of drink I walk the West Village to find and post. I'd try one on a weekend walk, and if it looks as good as it sounds I'd come back for the drink of the week.",
+  "objection": "At $8.50 it has to actually look special in the cup and taste like more than syrup, and it closes at noon, so if I come late on a Saturday I miss it. If I just want a plain black coffee, no drip means waiting on an Americano.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 4,
+  "price_cheap": 6,
+  "price_expensive": 9,
+  "price_too_expensive": 11
+}

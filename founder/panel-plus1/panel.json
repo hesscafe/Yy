@@ -1,0 +1,102 @@
+{
+ "n": 20,
+ "seed": 320801,
+ "customer": {
+  "business": "Hess Cafe (morning café inside Mamali bar, 70 Christopher St, West Village, NYC)",
+  "target": "People who pass Christopher St / 7th Ave S between 6am and noon: West Village locals and commuters on weekdays, visitors who come for photogenic drinks on weekends",
+  "where": "New York City, West Village, at the Christopher St–Stonewall subway exit",
+  "age": [
+   20,
+   55
+  ],
+  "segments": [
+   {
+    "name": "Weekday commuter (works in Manhattan, uses the 1 train)",
+    "share": 0.35,
+    "income": [
+     55000,
+     160000
+    ]
+   },
+   {
+    "name": "West Village resident",
+    "share": 0.3,
+    "income": [
+     70000,
+     250000
+    ]
+   },
+   {
+    "name": "Weekend visitor / tourist",
+    "share": 0.25,
+    "income": [
+     40000,
+     140000
+    ]
+   },
+   {
+    "name": "Student or young creative",
+    "share": 0.1,
+    "income": [
+     15000,
+     50000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Daily regular",
+    "share": 0.2,
+    "how": "Buys the same drink at the same place most mornings and wants it fast."
+   },
+   {
+    "name": "Trend chaser",
+    "share": 0.18,
+    "how": "Tries new and photogenic drinks and posts them on Instagram or TikTok."
+   },
+   {
+    "name": "Matcha fan",
+    "share": 0.15,
+    "how": "Drinks matcha several times a week and knows the difference in quality."
+   },
+   {
+    "name": "Weekend treat",
+    "share": 0.15,
+    "how": "Cheap coffee on weekdays, something special on Saturday or Sunday."
+   },
+   {
+    "name": "Loyal to their café",
+    "share": 0.12,
+    "how": "Has a favourite spot nearby and the staff know their order."
+   },
+   {
+    "name": "Price-conscious",
+    "share": 0.1,
+    "how": "Watches what a drink costs and avoids anything over about $6."
+   },
+   {
+    "name": "Reads every review",
+    "share": 0.1,
+    "how": "Checks Google ratings before trying anywhere new."
+   }
+  ],
+  "objections": [
+   "$7–8 is a lot for a latte",
+   "It looks like a closed bar, not a café",
+   "Dessert lattes sound too sweet",
+   "I already have a coffee place on my route",
+   "No drip coffee, so a quick black coffee is slower",
+   "No reviews yet",
+   "Is the matcha good quality?",
+   "Nowhere to sit"
+  ],
+  "habits": [
+   "you take the 1 train from Christopher St–Stonewall on weekdays",
+   "you live a few blocks away and walk your dog in the morning",
+   "you visit the West Village on weekends to walk around and take photos",
+   "you work from home three days a week",
+   "you walk past Matchaful on Christopher St"
+  ]
+ },
+ "pitch": "Hess Cafe, a new morning café inside Mamali at 70 Christopher St (West Village), at the Christopher St–Stonewall subway exit. A chalkboard on the window says \"Open for coffee now\" from 6am.\nOpen 6am to 12pm, six days a week. Takeaway, with a few seats inside.\nSignature lattes, $8.50: strawberry cheesecake matcha, cherry pie matcha, halva latte, apple strudel latte, and hot chocolate with torched meringue. Any signature drink can be made half-sweet. One rotating \"drink of the week\".\nPlain matcha latte $8, with the matcha's grade and farm named on the menu. Free tasting sips of the plain matcha, 6–9am on weekdays.\nRegular espresso drinks $6–8, plus a $5 Americano for a quick black coffee. Pastries from Balthazar, $6.\nDon't love your drink? We remake it free. Punch card: 10th drink free."
+}

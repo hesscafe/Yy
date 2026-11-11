@@ -1,0 +1,183 @@
+{
+ "business": "Hess Cafe (morning café inside Mamali bar, 70 Christopher St, West Village, NYC)",
+ "seed": 320801,
+ "dealt": 20,
+ "answered": 20,
+ "skipped": [],
+ "buys": 11,
+ "passes": 9,
+ "buy_rate": 0.55,
+ "by_segment": [
+  [
+   "Student or young creative",
+   2,
+   1.0
+  ],
+  [
+   "West Village resident",
+   6,
+   0.6666666666666666
+  ],
+  [
+   "Weekday commuter (works in Manhattan, uses the 1 train)",
+   7,
+   0.42857142857142855
+  ],
+  [
+   "Weekend visitor / tourist",
+   5,
+   0.4
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Matcha fan",
+   3,
+   1.0
+  ],
+  [
+   "Trend chaser",
+   4,
+   1.0
+  ],
+  [
+   "Weekend treat",
+   3,
+   1.0
+  ],
+  [
+   "Daily regular",
+   4,
+   0.25
+  ],
+  [
+   "Loyal to their café",
+   2,
+   0.0
+  ],
+  [
+   "Price-conscious",
+   2,
+   0.0
+  ],
+  [
+   "Reads every review",
+   2,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$97,000 to $118,000",
+   7,
+   0.7142857142857143
+  ],
+  [
+   "under $97,000",
+   6,
+   0.6666666666666666
+  ],
+  [
+   "$118,000 and up",
+   7,
+   0.2857142857142857
+  ]
+ ],
+ "why_not": [
+  [
+   "habit",
+   4,
+   [
+    "I'm only commuting two days a week and I already have my spot where they know my order and get me out in two minutes. A new place with $8.50 dessert lattes and no reviews isn't enough to break that routine on a rushed morning.",
+    "My spot already knows my order and I'm in and out in two minutes before the 1 train. I might take a free sip of the matcha walking past, but I'm not swapping my daily coffee for an $8.50 dessert latte."
+   ],
+   [
+    "P001",
+    "P002"
+   ]
+  ],
+  [
+   "trust",
+   3,
+   [
+    "I don't try anywhere new until I've read the Google reviews, and a brand-new café tucked inside another shop has none yet. $8.50 for a dessert-flavored matcha I can't vouch for is a gamble I won't take on my way to the 1 train when Matchaful is right there.",
+    "I only pass that exit two mornings a week, and a chalkboard in the window of what looks like a closed bar isn't enough for me to try somewhere with no Google rating yet. I'd walk past and check back once it has reviews."
+   ],
+   [
+    "P007",
+    "P013"
+   ]
+  ],
+  [
+   "price",
+   2,
+   [
+    "I'd take the free matcha sip on my way to the 1 train, and I like that they name the grade and farm, but $8 for a plain matcha latte is past what I pay for a drink on a weekday. The $5 Americano is in my range, but I don't need a new place for black coffee.",
+    "The drinks that make this place interesting are $8.50, and that's well past what I'll pay for a coffee. I'm only in the West Village some weekends, and if I just want a black coffee I'll grab one at a spot that actually looks like a café, not a closed bar with a chalkboard."
+   ],
+   [
+    "P004",
+    "P008"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "quality",
+   7,
+   [
+    "A café that names the matcha's grade and farm on the menu and lets me taste it free before paying is exactly what makes me try a new matcha spot, and it's right at my station. I'd try the plain matcha once and, if it's good, come back on a weekend for the strawberry cheesecake one half-sweet.",
+    "It's on my dog-walk route and they name the grade and farm, so I'd grab a free sip one morning and if it's actually good ceremonial-style matcha I'd get the plain latte. I'd skip the cheesecake and cherry pie stuff, that's for the weekend photo crowd."
+   ],
+   [
+    "P003",
+    "P005"
+   ]
+  ],
+  [
+   "other",
+   2,
+   [
+    "A strawberry cheesecake matcha or a torched-meringue hot chocolate is exactly the kind of thing I'd grab on the dog walk and post. It's a few blocks from me, so I'll try a couple of the signatures, but I'm not switching my daily coffee here at $8.50.",
+    "Strawberry cheesecake matcha and hot chocolate with torched meringue are exactly the kind of thing I'd try and post when I'm walking the West Village on a Saturday. I'm only there on weekends, so it's a try-it-once-or-twice thing, not a daily habit."
+   ],
+   [
+    "P012",
+    "P015"
+   ]
+  ],
+  [
+   "price",
+   1,
+   [
+    "Strawberry cheesecake matcha and a torched meringue hot chocolate right at my subway exit are exactly the kind of thing I'd post, so I'll try one or two. But at $8.50 on my budget it's a treat for the photo, not my daily coffee. My usual place keeps that."
+   ],
+   [
+    "P009"
+   ]
+  ],
+  [
+   "convenience",
+   1,
+   [
+    "It's a few blocks from me and right on my dog-walk route, so I'd grab the plain matcha with the named farm as my Saturday or Sunday treat. I'd skip the cheesecake and cherry pie stuff, though, and weekdays I'm still getting my cheap coffee."
+   ],
+   [
+    "P014"
+   ]
+  ]
+ ],
+ "flip": [
+  "A friend or a bunch of solid reviews saying the plain matcha is genuinely great and the line moves fast; then I'd grab the free sip and maybe switch on commute days.",
+  "If my usual place closed or got slow, or if the plain matcha tasting was genuinely better than anything near me, I'd give the $8 matcha a real try.",
+  "A plain matcha latte at $6 or less, or an early-commuter price on it, after the free sip shows me the matcha is actually good.",
+  "If my usual café closed or was packed one morning, I'd try the $5 Americano or a free matcha sip on the way to the train. But that's a one-off, not a switch.",
+  "A solid Google rating (4.5+ with a decent number of reviews) after a few weeks, or a free tasting sip on my way past that's actually good.",
+  "A signature drink at $6 or under, or a small size at that price, so I could try one without feeling ripped off.",
+  "Seeing a solid Google rating (4.5+ with a few dozen reviews) or a friend vouching for the matcha; the free tasting sip might get me to stop if it was clearly a café from the street.",
+  "Seeing that strawberry cheesecake matcha in someone's hand or on Instagram, so I know it's a real café drink worth the detour.",
+  "If my regular place closed or got slow, and this one could hand me a good plain latte or Americano in under two minutes, I'd switch."
+ ],
+ "purchases_first_month_per_buyer": 2.5454545454545454,
+ "price_answers": 20
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "quality",
+  "reason": "I'm already walking past Christopher St on Saturday mornings with my camera, and a weekend coffee is my one treat, so I'd try the plain matcha or a half-sweet halva latte once and maybe come back if it's good. I'm not going to make it a habit, and the dessert drinks themselves don't pull me in.",
+  "objection": "Strawberry cheesecake matcha and cherry pie matcha sound like syrup in a cup, and $8.50 for something that tastes like candy is not my idea of a treat. I'm also not sure they're open on the weekend day I'm there.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 4,
+  "price_cheap": 6,
+  "price_expensive": 8.5,
+  "price_too_expensive": 10
+}

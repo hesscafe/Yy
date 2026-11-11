@@ -34,6 +34,10 @@ The board would back a cheap, time-limited test, not the business as pitched. Be
 - [ ] Run the 2-week test and judge on real numbers, plus a pay-per-hour line you set yourself.
 - [ ] Add a weekend tasting sip for visitors (Offers lens).
 
+## Price test: +$1 on every drink (2026-11-11)
+
+See `pricing-plus1.md`. Simulated buyers: 13 → **11 of 20** buy, purchases 31 → **28 (−10%)**. CFO at 60 drinks a day: year 1 **$61,526** (was $50,203). At the −10% the panel suggests: **$55,205**. The +$1 menu pays as long as fewer than about 18% of drinks are lost. **Suggestion:** raise regular drinks and signature drinks, but keep plain matcha at $7 and the Americano at $4, then test both menus in the 2-week test. The board has not re-voted on this.
+
 ## First meeting details
 
 ## Risks raised by more than one member (most serious first)

@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": true,
+  "purchases_first_month": 3,
+  "reason_code": "other",
+  "reason": "A strawberry cheesecake matcha or a torched-meringue hot chocolate is exactly the kind of thing I'd grab on the dog walk and post. It's a few blocks from me, so I'll try a couple of the signatures, but I'm not switching my daily coffee here at $8.50.",
+  "objection": "From the street it reads like a closed bar with a chalkboard taped up, not a café. If I can't tell it's open or see the drinks, I walk past, and if the drink doesn't look as good as it sounds in the cup, there's no reason to come back.",
+  "would_change_my_mind": "Seeing the actual drinks, a photo on their Instagram or something visible in the window, so I know it's worth posting before I go in.",
+  "price_too_cheap": 4,
+  "price_cheap": 6,
+  "price_expensive": 9,
+  "price_too_expensive": 11
+}

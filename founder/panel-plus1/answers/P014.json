@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": true,
+  "purchases_first_month": 3,
+  "reason_code": "convenience",
+  "reason": "It's a few blocks from me and right on my dog-walk route, so I'd grab the plain matcha with the named farm as my Saturday or Sunday treat. I'd skip the cheesecake and cherry pie stuff, though, and weekdays I'm still getting my cheap coffee.",
+  "objection": "The signature drinks sound like dessert in a cup, and $8 for a matcha latte is a lot on my budget. Even as a weekend thing it adds up fast.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 3.5,
+  "price_cheap": 5,
+  "price_expensive": 7.5,
+  "price_too_expensive": 9.5
+}
