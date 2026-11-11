@@ -37,6 +37,6 @@ Calculated by hand, month by month, the same way as above (within about $50 of t
 - **The minimum only matters when sales are low.** With 30%, you pay more than $2,500 anyway from about **47 drinks a day**. With 25%, from about **57 a day**.
 - **It costs you most in the first months**, while you're building up. At 30 a day you pay $2,500 instead of about $1,600 (30%) or $1,330 (25%). Month 1 drops from about $2,500 profit to about $1,600.
 - **If sales stay at half your guess,** the minimum cuts the year from about $27,000–30,000 to about **$14,300**. Below about 19 drinks a day, you'd lose money.
-- **25% with a $2,500 minimum is still better than 30% with no minimum** at 60 a day (+$3,367), and about the same at 54 a day. At lower volumes it's worse.
+- **25% with a $2,500 minimum is still better than 30% with no minimum** at 60 a day (+$3,367) and slightly better at 54 a day (+$1,073). At 48 a day or fewer it's worse.
 
 **Recommendation:** a $2,500 minimum is acceptable if you get 25% (not 30%) with it, and ask for it to **start in month 3 or after the 2-week test**, so the ramp-up months aren't squeezed. Avoid 30% plus a $2,500 minimum. That's the worst of both: you keep the higher share and take on the risk.
