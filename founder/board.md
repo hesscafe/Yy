@@ -42,6 +42,10 @@ See `pricing-plus1.md`. Simulated buyers: 13 → **11 of 20** buy, purchases 31 
 
 **Change (founder, 2026-11-11): latte and iced latte at $7.50, not $8.** Average price $6.81, $3.40 left per drink, **year 1 $55,780** at 60 a day. Beats the old prices unless more than about 10% of drinks are lost.
 
+## Rent options (2026-11-11)
+
+See `rent-options.md`. At 60 drinks a day: 30% of sales = $55,780, **25% = $61,526**, **flat $4,000 = $42,256** (break-even rises from 2 to 30 drinks a day, and 30 a day becomes a loss). "$4,000 or 25%, whichever is higher" = the flat $4,000 until about 90 drinks a day. Ask for 25% with no minimum. The main plan still uses 30%.
+
 ## First meeting details
 
 ## Risks raised by more than one member (most serious first)
