@@ -65,6 +65,13 @@ The founder confirmed: the bar provides the equipment, a frame and posters can g
 - **Conditions ticked:** offer stack, guarantee and loyalty ✅. Shorter launch menu: still open. The board suggested 2–3 signature drinks, and the pitch still lists 5.
 - **New for the founder:** tell us your matcha supplier, grade and origin. The offer depends on naming it truthfully.
 
+## Update after operations and the launch plan (2026-11-11)
+
+- **Ops** (`ops.md`): daily routine 5:15am–1pm, both of you on the 6–9am rush, routines for opening, rush, complaints and closing, matcha suppliers to get quotes from, and a risk register. **Card fees are 2.6% + 15¢** (not 10¢), so each drink leaves about $3.07.
+- **Permit:** check that it covers *you* operating at Mamali's address. NYC generally requires each operator to have their own.
+- **Launch** (`launch.md`): soft open **Sat Nov 28**, public opening **Mon Nov 30, 2026**. The first 2 weeks are the test, with **40 drinks a day** as the pass line. Reviews on day 7 (Dec 6), day 14 (Dec 13) and day 30 (Dec 29).
+- Conditions now planned: the timed dry run (Nov 24), the 2-week paid test before spending on décor, and the 7am street plan (window, chalkboard, sidewalk sign within NYC 311 limits if Mamali agrees).
+
 ## Where the members disagree
 
 - **Who the business is for.** The Offers lens wants a commuter offer added so weekdays pay. The Product lens warns that one person can't serve both commuters and the slow "show" drinks in the same hour, and would rather narrow the menu. The Monopoly lens would dominate the dessert-latte niche first and treat commuters as secondary.
