@@ -24,21 +24,57 @@
 - **No fixed costs.** Rent is a share of sales, there are no utilities, the equipment is Mamali's and you and your mom take no wage. So every drink sold adds to your pay, and a slow day doesn't lose money. The real question is whether it pays enough for two people's hours. At 40 drinks a day that's about $3,200 a month before income tax. At 80 it's about $6,400.
 - **Pastries are thin:** about $0.27–1.94 each depending on the buy and sell price. Sell at $6.
 
+**The board (second review): 3 fund if, average 5.7 / 10** (up from 4.7). All three ask for the same things first: a signed deal with Mamali, a real named matcha, and a launch menu cut to 2 signature drinks.
+
 **Where the board and the buyers agree:** the risks are the deal with Mamali, being seen at 7am, and winning weekday commuters (2–3 of 7 commuters buy). The drinks themselves are a real draw for locals and weekend visitors. **Where they disagree:** the board wants a short launch menu; the pitch still has 5 signature drinks. Buyers worry most about matcha quality, which the board barely raised.
+
+**Pay per hour:** at 40 drinks a day, about $3,200 a month for two people's ~300–350 hours is about $9–11 an hour before tax. Set the hourly pay that makes it worth it for you, and add it to the test.
 
 **Biggest risk:** Mamali itself. Public listings describe it as a café serving espresso drinks in the morning, and nothing is signed yet. **Plan:** a written agreement before Nov 15, with a term, notice period, morning exclusivity, and the recipes and brand staying yours.
 
 **What you need to start:** about **$2,000** (your budget): about $300 for marketing (posters, chalkboard, punch cards, free drinks), first stock of matcha, beans, milk, cups and syrups, a torch, a Square reader, and fees for insurance and registration. No large spend before the 2-week test passes (40+ drinks a day).
 
-**The one thing to do this week:** get the agreement with Mamali in writing, and confirm with DOHMH that your permit covers you operating there.
+**The one thing to do this week:** get the agreement with Mamali in writing, including that Mamali stops serving coffee 6am–12pm. If Mamali won't agree to that, one board member votes pass.
 
 *The buyer panel is 20 simulated buyers, and all money figures are projections from your cost sheet. Real customers and real quotes confirm them. Not financial, legal or tax advice.*
 
 ## What the board said
 
-**Vote: 3 fund if, 0 pass. Average score: 4.7 / 10** (Offers 5, Monopoly 4, Product 5)
+**First meeting vote: 3 fund if, 0 pass. Average score: 4.7 / 10.** Second meeting: 3 fund if, average 5.7 (see below). (Offers 5, Monopoly 4, Product 5)
 
 The board would back a cheap, time-limited test, not the business as pitched. Because rent is only a share of revenue, no utilities are paid and start-up costs are about $2,000, the downside is small. What isn't proven yet is whether customers will find the café, how fast it can serve them, and whether the deal with the bar protects the founder.
+
+### Second board meeting (2026-11-11): review of everything
+
+**Vote: 3 fund if, 0 pass. Average score: 5.7 / 10** (was 4.7). Offers 6 (was 5), Monopoly 5 (was 4), Product 6 (was 5). Memos are in `board/round2/`.
+
+**What moved the scores:**
+- A real gap was found: no premium or dessert matcha before 8:30am nearby.
+- The offer now answers buyers' doubts (named matcha, free sip, half-sweet, $4 Americano, remake guarantee).
+- The cost per drink is known (about $3.07), and there are no fixed costs.
+- A dated test with a pass line written in advance comes before any décor spend.
+- Ops covers both of you during the rush.
+
+**What all three still flag (most serious first):**
+1. **Nothing is signed with Mamali, and Mamali may sell its own morning coffee.** All three make this the first condition. The Monopoly lens would **pass** if Mamali won't stop selling morning coffee.
+2. **The named matcha isn't real yet.** "Farm on the menu" moved buyers the most, but no supplier, grade or quote exists. Don't print or post it until it's true.
+3. **The menu is too big for the 6–9am rush.** The board asked to cut it, and it grew instead. All three now ask for 2–3 signature drinks at launch, with the rest rotating as the drink of the week.
+
+**New point (Offers lens):** at the 40-drinks pass line, about $3,200 a month for two people's ~300–350 hours is about **$9–11 an hour** before tax. Add a pay line to the test: what hourly take-home makes this worth it for you?
+
+**Disagreement:** the Offers lens says stop leading with "cheaper than Matchaful" and lead with "earlier, taste it first, flavours nobody else makes". The Monopoly lens says the earlier hours alone can be copied, and only one signature drink people seek out will hold the position. The Product lens says matcha quality is the spine and the show drink is secondary.
+
+**Conditions still standing (merged):**
+- [ ] Signed agreement with Mamali before Nov 30: 12+ months, notice, **Mamali stops serving coffee 6am–12pm**, equipment and repairs, liability, recipes and brand yours.
+- [ ] DOHMH confirms the permit covers you at 70 Christopher St. General liability insurance in place.
+- [ ] Matcha supplier quote with grade, farm and price per gram, fitting $0.39 a drink. Taste it. Cost each signature recipe.
+- [ ] Launch menu: 2 signature drinks (best matcha one + torched hot chocolate), plain matcha, espresso basics, Americano. Others rotate as drink of the week.
+- [ ] Dry run on Nov 24: 20 mixed orders timed, regular drinks under 2 minutes at the median.
+- [ ] Stand outside at 6am with the window set up and photograph it. Fix it if it still looks like a closed bar.
+- [ ] Run the 2-week test and judge on real numbers, plus a pay-per-hour line you set yourself.
+- [ ] Add a weekend tasting sip for visitors (Offers lens).
+
+### First meeting details
 
 ### Risks raised by more than one member (most serious first)
 

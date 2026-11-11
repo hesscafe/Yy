@@ -21,6 +21,7 @@
 **The evidence.**
 - Buyer panel (simulated): 12 of 20 buy. 13 of 20 with the improved offer, and first-month purchases rose from 24 to 31. Residents buy 5 of 6, commuters 3 of 7.
 - Competitor gap: no early-morning dessert matcha nearby, and a lower price than Matchaful.
+- Board: 3 fund if, 0 pass (average 5.7 / 10), on conditions: a signed deal with Mamali, a real named matcha, and a short launch menu.
 - Real test: **not yet**. The first 2 weeks after opening (Nov 30 – Dec 12, 2026), with a pass line of 40+ drinks a day.
 
 **What the money is for.** The ~$2,000 covers first stock (matcha, beans, milk, cups, syrups), a torch, a Square reader, about $300 of marketing (posters, chalkboard, punch cards, free drinks), and insurance and registration fees. No big spend until the test passes.
