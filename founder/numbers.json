@@ -1,0 +1,29 @@
+{
+  "business": "Hess Cafe (morning café inside Mamali, 70 Christopher St)",
+  "unit": "drink",
+  "price": 6.31,
+  "variable": [
+    {"label": "Ingredients + cup (avg of founder's 8-drink cost sheet)", "cost": 1.04},
+    {"label": "Rent: 30% revenue share to Mamali", "cost": 1.89},
+    {"label": "Card fee: Square 2.6% + $0.15", "cost": 0.31}
+  ],
+  "fixed_monthly": [
+    {"label": "General liability insurance (ESTIMATE, get a quote)", "cost": 80},
+    {"label": "Cleaning supplies, napkins, butane, punch cards (ESTIMATE)", "cost": 60},
+    {"label": "Wages (founder + mom, unpaid)", "cost": 0},
+    {"label": "Utilities (included by Mamali)", "cost": 0}
+  ],
+  "startup": [
+    {"label": "Marketing: posters, chalkboard, punch/QR cards, free drinks, boost (marketing.md)", "cost": 300},
+    {"label": "Square card reader", "cost": 59},
+    {"label": "Kitchen torches x2 + butane (ESTIMATE)", "cost": 80},
+    {"label": "First stock: matcha, beans, milk, cups, syrups (ESTIMATE)", "cost": 600},
+    {"label": "Business name registration + misc fees (ESTIMATE)", "cost": 100},
+    {"label": "Launch offer: free sips + remakes, 2 weeks (offer.md)", "cost": 90},
+    {"label": "Removable décor box, after the test passes (ESTIMATE)", "cost": 300}
+  ],
+  "days_per_month": 26,
+  "capacity_per_day": 150,
+  "plan_per_day": 60,
+  "ramp_per_day": [30, 40, 48, 54, 58, 60, 60, 60, 60, 60, 60, 60]
+}

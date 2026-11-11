@@ -1,6 +1,6 @@
 # Hess Cafe: one page
 
-**Verdict: Incomplete.** 12 of 20 simulated buyers buy (60%). The money checks wait for real daily volume from the 2-week test.
+**Verdict: Profitable, on a guessed 60 drinks a day** (to be confirmed by the 2-week test). 12 of 20 simulated buyers buy (60%).
 
 **The problem.** In the West Village, nobody near the Christopher St subway exit sells premium or dessert-flavoured matcha before 8:30am. Matchaful, a block away, opens at 8:30am, and its matcha latte is listed at about $12.59.
 
@@ -8,15 +8,18 @@
 
 **The offer.** "The 6am Matcha on Christopher St." Dessert-flavoured matcha (cheesecake, cherry pie, halva, apple strudel) and torched-meringue hot chocolate at $7.50, half-sweet on request. Plain matcha $7, with the grade and farm named and free tasting sips 6–9am on weekdays. Espresso drinks $5–7, a $4 Americano, Balthazar pastries $6. A free remake if you don't love it, a punch card (10th drink free) and a drink of the week.
 
-**The numbers** (from the founder's cost sheet; the CFO tool can't run until there is real volume)
+**The numbers** (CFO tool, `cfo.md`; volume is the founder's guess)
 
 | | |
 |---|---|
-| Left per drink, average | about **$3.07** (range $2.18–$3.73) after ingredients, cup, 30% rent, card fee |
-| Fixed costs | **none** (revenue-share rent, no utilities, equipment provided, no wages) |
-| At 40 drinks/day, 26 days | about **$3,200/month** before income tax |
-| At 80 drinks/day, 26 days | about **$6,400/month** before income tax |
-| Start-up budget | about **$2,000** |
+| Left per drink | **$3.07** (49%) |
+| Fixed costs | about **$140/month** (estimates) |
+| Break-even | **2 drinks a day** |
+| Profit margin at 60/day | **47%** |
+| Year 1 operating profit | **$50,203** on $106,639 revenue |
+| At 48/day (−20%) | $39,826 |
+| Cash needed to start | **$1,529** (earned back in month 1) |
+| Pay for founder + mom | about $25,100 each, about $12.70/hour before tax |
 
 **The evidence.**
 - Buyer panel (simulated): 12 of 20 buy. 13 of 20 with the improved offer, and first-month purchases rose from 24 to 31. Residents buy 5 of 6, commuters 3 of 7.

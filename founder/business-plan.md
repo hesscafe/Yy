@@ -1,9 +1,22 @@
 # Hess Cafe · Business plan
 
-**Verdict: Incomplete**
+**Verdict: Profitable**
 
+- ✓ Each drink earns $3.07 before fixed costs (49% contribution).
+- ✓ Year 1 operating profit: $50,203.
+- ✓ Break-even is 2 drinks a day against a capacity of 150.
 - ✓ 12 of 20 simulated buyers buy (60%, the bar is 25%).
-- No numbers yet. Run /founder-cfo, then compile again.
+
+| key number | |
+| --- | ---: |
+| Price | $6.31 a drink |
+| Profit margin at plan | 47% per drink |
+| Break-even | 2 drinks a day |
+| Year 1 operating profit | $50,203 |
+| Startup spend | $1,529 |
+| Cash needed before it pays for itself | $1,529 |
+| Startup money earned back | month 1 |
+| Buyer panel | 12 buy · 8 pass |
 
 ## The idea
 
@@ -17,12 +30,14 @@
 
 **What it is.** A morning-only café (6am–12pm, 6 days a week) inside the Mamali bar at 70 Christopher St, at the Christopher St–Stonewall subway exit in the West Village. It sells dessert-flavoured matcha lattes, torched-meringue hot chocolate, regular espresso drinks and Balthazar pastries to West Village locals, weekend visitors and 1-train commuters.
 
-**Verdict: Incomplete.** The verdict is computed, not written by hand. One check passes: 12 of 20 simulated buyers buy (60%, the bar is 25%). The money checks can't run yet because there is no daily volume, so `numbers.json` and the CFO report don't exist. **What has to happen:** run the 2-week test (Nov 30 – Dec 12), then run `/founder-cfo` with the real drinks per day.
+**Verdict: Profitable, on a guessed 60 drinks a day.** The verdict is computed, not written by hand, and all four checks pass. It rests on the founder's estimate of 60 drinks a day, which the 2-week test (Nov 30 – Dec 12) has to confirm.
 
-**What is known about the money** (from your cost sheet, not yet from the CFO tool):
-- Each drink leaves about **$3.07** on average after ingredients, the cup, the 30% rent and Square's 2.6% + 15¢. It ranges from about $2.18 (flat white) to $3.73 (iced matcha).
-- **No fixed costs.** Rent is a share of sales, there are no utilities, the equipment is Mamali's and you and your mom take no wage. So every drink sold adds to your pay, and a slow day doesn't lose money. The real question is whether it pays enough for two people's hours. At 40 drinks a day that's about $3,200 a month before income tax. At 80 it's about $6,400.
-- **Pastries are thin:** about $0.27–1.94 each depending on the buy and sell price. Sell at $6.
+**The three numbers** (from `cfo.md`):
+- **Margin:** each drink leaves **$3.07** (49%). The profit margin at 60 a day is **47%**.
+- **Break-even:** **2 drinks a day.** Fixed costs are only about $140 a month: no fixed rent, no utilities, no wages.
+- **Year 1:** **$50,203** operating profit on $106,639 of revenue, ramping from 30 to 60 drinks a day over 6 months. At 48 a day it's $39,826, at 30 a day $24,261.
+
+**But it's your pay, not profit on top of pay.** $50,203 is about $25,100 each for you and your mom, or about **$12.70 an hour** before tax for ~76 hours a week together. That's below NYC's $17 minimum wage. Rent at 25%, more signature drinks and pastries would add about $5,000–6,500 a year each.
 
 **The board (second review): 3 fund if, average 5.7 / 10** (up from 4.7). All three ask for the same things first: a signed deal with Mamali, a real named matcha, and a launch menu cut to 2 signature drinks.
 
@@ -32,7 +47,7 @@
 
 **Biggest risk:** Mamali itself. Public listings describe it as a café serving espresso drinks in the morning, and nothing is signed yet. **Plan:** a written agreement before Nov 15, with a term, notice period, morning exclusivity, and the recipes and brand staying yours.
 
-**What you need to start:** about **$2,000** (your budget): about $300 for marketing (posters, chalkboard, punch cards, free drinks), first stock of matcha, beans, milk, cups and syrups, a torch, a Square reader, and fees for insurance and registration. No large spend before the 2-week test passes (40+ drinks a day).
+**What you need to start:** about **$1,529** (CFO), inside your $2,000 budget: about $300 for marketing (posters, chalkboard, punch cards, free drinks), first stock of matcha, beans, milk, cups and syrups, a torch, a Square reader, and fees for insurance and registration. No large spend before the 2-week test passes (40+ drinks a day).
 
 **The one thing to do this week:** get the agreement with Mamali in writing, including that Mamali stops serving coffee 6am–12pm. If Mamali won't agree to that, one board member votes pass.
 
@@ -429,6 +444,97 @@ Same 20 simulated buyers (seed 320801), shown the new pitch (`pitch.md`, old one
 - **The named matcha has to be true.** Tell me your supplier, grade and origin, and put them on the menu.
 - **The sandwich board** needs Mamali's OK and must follow NYC sidewalk rules. Check first, or keep to the window.
 - Not legal advice. Keep the remake guarantee simple and honour it every time.
+
+## The numbers
+
+> **Built on a guess: 60 drinks a day** (the founder's estimate, not yet tested). The real number comes from the 2-week test (Nov 30 – Dec 12). The ramp (30 → 60 over 6 months) is also an estimate. The panel can't size it: it measures who buys and how often (about 2.4 times in the first month per buyer), not how many people walk past.
+
+**The margin.** Each drink leaves **$3.07** (49% of the $6.31 average price) after ingredients and cup ($1.04), the 30% rent ($1.89) and Square's fee ($0.31). Fixed costs are only about **$140 a month** (insurance and supplies, both estimates), so break-even is **2 drinks a day**. At 60 a day the profit margin is **47%**. **Year 1: $50,203** operating profit on $106,639 of revenue.
+
+**What that means for the two of you.** No wages are in these numbers, so the profit *is* your pay. $50,203 split between the founder and your mom is about **$25,100 each for the year**, before income tax and self-employment tax. At about 76 hours a week combined (`ops.md`), that's about **$12.70 an hour**, under NYC's $17 minimum wage. At the full 60 a day (from month 6), it's about $4,650 a month, or about $14 an hour.
+
+**The line to watch: daily volume.** Price and rent are fixed by your menu and the deal. Volume is the guess.
+
+| Drinks a day (at plan) | Year 1 profit |
+|---|---|
+| 60 (base) | $50,203 |
+| 48 (−20%) | $39,826 |
+| 30 (−50%) | $24,261 |
+
+**Cash.** You need about **$1,529** before it pays for itself, inside your $2,000 budget. It's earned back in month 1 even at 30 drinks a day.
+
+**Three ways to improve the margin** (each run through the tool):
+1. **Negotiate rent to 25%** instead of 30%. Each drink leaves $3.38 instead of $3.07, so year 1 goes from $50,203 to **$55,442 (+$5,239)**.
+2. **Sell more signature drinks.** If the mix lifts the average price to $6.80 (with ingredients up to $1.25 an estimate), year 1 goes to **$52,062 (+$1,859)**.
+3. **Sell pastries with drinks** (by hand, not in the tool): at $6 with a $2.50 buy price, each leaves about $1.39. At 15 a day, that's about **+$6,500 a year**.
+
+**Downside check:** price −10% (with rent and fees scaled to the lower price) gives $42,936. The tool's built-in "price −10%" row doesn't lower the rent with the price, so it shows a slightly worse $39,539.
+
+**Board money conditions:**
+- Cost per drink: ✅ known for the 8 regular drinks.
+- Signature drink costs: ❌ still estimated, and the signature drinks aren't in this mix (they would raise both price and cost).
+- Matcha cost: ❌ not checked against a supplier quote.
+- Daily volume: ❌ guessed.
+- Pay line: the board asked for one. At 60 a day, it's about $12.70 an hour each.
+
+**Not included:** sales tax (8.875%, assumed added on top of menu prices — if your prices *include* tax, revenue is about 8% lower), pastries, income and self-employment tax. An accountant should check the structure, payroll for your mom, and tax before money moves. Not financial, tax or legal advice.
+
+---
+
+## Unit economics: Hess Cafe (morning café inside Mamali, 70 Christopher St)
+
+Every number below comes from the input file. Nothing is looked up or guessed.
+
+### One drink
+
+| line | per drink |
+| --- | ---: |
+| Price | $6.31 |
+| Ingredients + cup (avg of founder's 8-drink cost sheet) | -$1.04 |
+| Rent: 30% revenue share to Mamali | -$1.89 |
+| Card fee: Square 2.6% + $0.15 | -$0.31 |
+| **Contribution** (what each drink leaves to pay the fixed costs) | **$3.07** (49%) |
+
+### The margin that matters
+
+Fixed costs: $140 a month (General liability insurance (ESTIMATE, get a quote) $80, Cleaning supplies, napkins, butane, punch cards (ESTIMATE) $60, Wages (founder + mom, unpaid) $0, Utilities (included by Mamali) $0).
+
+- **Break-even: 2 drinks a day.** Below that you lose money every month.
+- **Profit margin at your plan** (60 a day): **47%** of every sale, after every cost.
+- Capacity: 150 a day.
+
+### Year 1, month by month
+
+| month | drinks a day | revenue | profit | cumulative (after $1,529 startup) |
+| ---: | ---: | ---: | ---: | ---: |
+| 1 | 30 | $4,922 | $2,255 | $726 |
+| 2 | 40 | $6,562 | $3,053 | $3,778 |
+| 3 | 48 | $7,875 | $3,691 | $7,470 |
+| 4 | 54 | $8,859 | $4,170 | $11,640 |
+| 5 | 58 | $9,515 | $4,490 | $16,130 |
+| 6 | 60 | $9,844 | $4,649 | $20,779 |
+| 7 | 60 | $9,844 | $4,649 | $25,428 |
+| 8 | 60 | $9,844 | $4,649 | $30,077 |
+| 9 | 60 | $9,844 | $4,649 | $34,726 |
+| 10 | 60 | $9,844 | $4,649 | $39,376 |
+| 11 | 60 | $9,844 | $4,649 | $44,025 |
+| 12 | 60 | $9,844 | $4,649 | $48,674 |
+
+- **Year 1 operating profit: $50,203** on $106,639 of revenue.
+- After the $1,529 startup spend: $48,674.
+- Startup money earned back: month 1.
+- Cash you need before it pays for itself: **$1,529**.
+
+### What if
+
+| scenario | margin at plan | break-even a day | year 1 profit |
+| --- | ---: | ---: | ---: |
+| Base plan | 47% | 2 | $50,203 |
+| Price -10% | 41% | 3 | $39,539 |
+| Volume -20% | 47% | 2 | $39,826 |
+| Unit costs +15% | 40% | 3 | $41,990 |
+
+No red flags in these numbers. They are only as good as the inputs: check every cost against a real quote.
 
 ## Marketing
 
@@ -827,9 +933,5 @@ Also test the signature price: **$7.50 in week 1, $8 in week 2**, and compare si
 | **Day 30** | Tue Dec 29 | Real monthly numbers → `/founder-cfo` with real volume. Keep, cut or add signature drinks. Stop the free tastings? Is it worth the hours for two people? |
 
 **Trigger levels:** weekdays under 20 drinks by day 14, or under 10 Google reviews by day 14, means change something (the window, the commuter hooks, ask for reviews every day). See `marketing.md`.
-
-## Not done yet
-
-- The numbers: run /founder-cfo
 
 _The panel is simulated buyers and the numbers are projections from your inputs. Confirm demand with real customers and costs with real quotes before you spend. Not financial, legal or tax advice._

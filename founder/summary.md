@@ -2,12 +2,14 @@
 
 **What it is.** A morning-only café (6am–12pm, 6 days a week) inside the Mamali bar at 70 Christopher St, at the Christopher St–Stonewall subway exit in the West Village. It sells dessert-flavoured matcha lattes, torched-meringue hot chocolate, regular espresso drinks and Balthazar pastries to West Village locals, weekend visitors and 1-train commuters.
 
-**Verdict: Incomplete.** The verdict is computed, not written by hand. One check passes: 12 of 20 simulated buyers buy (60%, the bar is 25%). The money checks can't run yet because there is no daily volume, so `numbers.json` and the CFO report don't exist. **What has to happen:** run the 2-week test (Nov 30 – Dec 12), then run `/founder-cfo` with the real drinks per day.
+**Verdict: Profitable, on a guessed 60 drinks a day.** The verdict is computed, not written by hand, and all four checks pass. It rests on the founder's estimate of 60 drinks a day, which the 2-week test (Nov 30 – Dec 12) has to confirm.
 
-**What is known about the money** (from your cost sheet, not yet from the CFO tool):
-- Each drink leaves about **$3.07** on average after ingredients, the cup, the 30% rent and Square's 2.6% + 15¢. It ranges from about $2.18 (flat white) to $3.73 (iced matcha).
-- **No fixed costs.** Rent is a share of sales, there are no utilities, the equipment is Mamali's and you and your mom take no wage. So every drink sold adds to your pay, and a slow day doesn't lose money. The real question is whether it pays enough for two people's hours. At 40 drinks a day that's about $3,200 a month before income tax. At 80 it's about $6,400.
-- **Pastries are thin:** about $0.27–1.94 each depending on the buy and sell price. Sell at $6.
+**The three numbers** (from `cfo.md`):
+- **Margin:** each drink leaves **$3.07** (49%). The profit margin at 60 a day is **47%**.
+- **Break-even:** **2 drinks a day.** Fixed costs are only about $140 a month: no fixed rent, no utilities, no wages.
+- **Year 1:** **$50,203** operating profit on $106,639 of revenue, ramping from 30 to 60 drinks a day over 6 months. At 48 a day it's $39,826, at 30 a day $24,261.
+
+**But it's your pay, not profit on top of pay.** $50,203 is about $25,100 each for you and your mom, or about **$12.70 an hour** before tax for ~76 hours a week together. That's below NYC's $17 minimum wage. Rent at 25%, more signature drinks and pastries would add about $5,000–6,500 a year each.
 
 **The board (second review): 3 fund if, average 5.7 / 10** (up from 4.7). All three ask for the same things first: a signed deal with Mamali, a real named matcha, and a launch menu cut to 2 signature drinks.
 
@@ -17,7 +19,7 @@
 
 **Biggest risk:** Mamali itself. Public listings describe it as a café serving espresso drinks in the morning, and nothing is signed yet. **Plan:** a written agreement before Nov 15, with a term, notice period, morning exclusivity, and the recipes and brand staying yours.
 
-**What you need to start:** about **$2,000** (your budget): about $300 for marketing (posters, chalkboard, punch cards, free drinks), first stock of matcha, beans, milk, cups and syrups, a torch, a Square reader, and fees for insurance and registration. No large spend before the 2-week test passes (40+ drinks a day).
+**What you need to start:** about **$1,529** (CFO), inside your $2,000 budget: about $300 for marketing (posters, chalkboard, punch cards, free drinks), first stock of matcha, beans, milk, cups and syrups, a torch, a Square reader, and fees for insurance and registration. No large spend before the 2-week test passes (40+ drinks a day).
 
 **The one thing to do this week:** get the agreement with Mamali in writing, including that Mamali stops serving coffee 6am–12pm. If Mamali won't agree to that, one board member votes pass.
 
