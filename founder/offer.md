@@ -47,7 +47,7 @@
 
 **Name: "The 6am Matcha on Christopher St."** Dessert-flavoured matcha you can try for free, at the subway exit, two hours before anyone else nearby opens for matcha.
 
-- **The core:** a signature dessert latte or torched-meringue hot chocolate, $7.50, made to look good and taste good. Half-sweet on request.
+- **The core:** a signature dessert latte or torched-meringue hot chocolate, $8 (main plan; see `pricing.md`), made to look good and taste good. Half-sweet on request.
 - **Bonus 1, the free taste:** sips of the plain matcha latte, 6–9am weekdays. The menu names the grade and farm. This answers "is the matcha good?" before anyone pays.
 - **Bonus 2, the commuter lane:** a $4 Americano and regular espresso drinks served first during the rush.
 - **Bonus 3, the punch card:** 10th drink free, with double stamps for the first 2 weeks.

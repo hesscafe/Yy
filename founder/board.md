@@ -38,6 +38,8 @@ The board would back a cheap, time-limited test, not the business as pitched. Be
 
 See `pricing-plus1.md`. Simulated buyers: 13 → **11 of 20** buy, purchases 31 → **28 (−10%)**. CFO at 60 drinks a day: year 1 **$61,526** (was $50,203). At the −10% the panel suggests: **$55,205**. The +$1 menu pays as long as fewer than about 18% of drinks are lost. **Suggestion:** raise regular drinks and signature drinks, but keep plain matcha at $7 and the Americano at $4, then test both menus in the 2-week test. The board has not re-voted on this.
 
+**Decision (founder, 2026-11-11): the mixed menu is the main plan.** Regular espresso drinks +$1, plain matcha $7, chai $6, Americano $4, signature drinks $8. CFO at 60 a day: $3.49 left per drink, **year 1 $57,301** (was $50,203). It beats the old prices unless more than about 12% of drinks are lost. Not re-tested on the panel.
+
 ## First meeting details
 
 ## Risks raised by more than one member (most serious first)

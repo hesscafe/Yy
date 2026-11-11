@@ -1,14 +1,21 @@
 # Pricing: Hess Cafe
 
-## The price
+## The price (main plan: the mixed menu, chosen 2026-11-11)
 
-| Item | Price now | Recommended | Why |
-|---|---|---|---|
-| Regular espresso drinks (flat white, cortado, cappuccino, latte, iced latte) | $5–7 | **keep $5–7** | Inside the panel's acceptable range ($4.02–$8.00). Same as generic NYC specialty coffee ($5–8). |
-| Plain matcha latte (hot / iced) | $7 | **keep $7** | Inside the range and well below Matchaful's listed ~$12.59 ([DoorDash](https://www.doordash.com/en/business/matchaful-410320/menu/), 1 block away). |
-| Chai latte | $6 | keep $6 | Inside the range. |
-| **Signature lattes** (cheesecake / cherry pie matcha, halva, apple strudel) and **torched-meringue hot chocolate** | $8 | **test $7.50 against $8** | $8 is exactly the panel's PME (the point where too many say it is too expensive). $7.50 sits just inside the range. |
-| Pastries (Balthazar) | $5–6 | **$6 for anything that costs you $3** | At $5, a $3 pastry leaves about $0.27 after rent and fees. At $6, it leaves $0.94. |
+| Item | Was | **Now** | Left per drink | Why |
+|---|---|---|---|---|
+| Flat white, cortado | $5 | **$6** | $2.85 / $2.99 | +$1 is in line with nearby specialty coffee |
+| Cappuccino | $6.50 | **$7.50** | $3.79 | +$1 |
+| Latte, iced latte | $7 | **$8** | $4.06 / $4.24 | +$1 |
+| Plain matcha latte (hot / iced) | $7 | **$7** (no change) | $3.55 / $3.73 | The drink people taste and compare with Matchaful (~$12.59 listed). Buyers already put it near their limit |
+| Chai latte | $6 | **$6** (no change) | $2.70 | Already the weakest margin, but not an espresso drink |
+| $4 Americano | — | **$4** | about $1.76 | The commuter hook |
+| **Signature lattes and torched-meringue hot chocolate** | $8 | **$8** | depends on the extra cost (estimated $0.50–1.00) | At the top of the first panel's range; the +$1 test moved buyers' range up to $8.50, but they anchor to the menu shown |
+| Pastries (Balthazar) | $5–6 | **$6** | about $0.94–1.94 | At $5, a $3 pastry leaves about $0.27 |
+
+**Average price of the 8 regular drinks: $6.94** (was $6.31). Each drink leaves **$3.49** on average (was $3.07). See `cfo.md`.
+
+**Expected effect on buyers:** not re-tested on the panel. The full +$1 menu lost about 10% of purchases (`pricing-plus1.md`). The mixed menu keeps matcha, chai and the Americano unchanged, so the drop should be smaller, somewhere between 0% and 10%. The 2-week test will tell.
 
 **Margin per signature drink.** The extra cost of the flavourings and meringue isn't known yet, so it is **estimated at $0.50–$1.00** on top of the $1.02 matcha latte base:
 
@@ -23,9 +30,9 @@ Price sensitivity is in `pricing-curve.md` (20 simulated buyers): acceptable ran
 
 ## The ladder
 
-1. **Good:** regular espresso drink, $5–7. Fast, the commuter's coffee.
+1. **Good:** $4 Americano or a regular espresso drink, $6–8. Fast, the commuter's coffee.
 2. **Better:** plain matcha latte, $7. Name the grade and origin on the menu, which is what makes it worth $7.
-3. **Best:** signature latte or torched-meringue hot chocolate, $7.50–8. The photo drink.
+3. **Best:** signature latte or torched-meringue hot chocolate, $8. The photo drink.
 - **Add-on:** + pastry at $6. Don't discount the bundle. Pastry margins are already thin.
 - **Punch card:** 10th drink free. Rent is a share of revenue, so a free drink costs you only its ingredients, about $1. That's cheap loyalty.
 
@@ -37,7 +44,7 @@ Price sensitivity is in `pricing-curve.md` (20 simulated buyers): acceptable ran
 
 ## What to test with real buyers
 
-- **Signature price: $7.50 vs $8.** Alternate weeks on the menu board and count signature drinks sold per day at each price. Keep everything else the same.
+- **Signature price: $8 vs $7.50.** If signature sales are slow in week 1 at $8, try $7.50 in week 2 and compare money left per day, not just drinks sold.
 - **Pastry: $6 flat** vs. the current $5–6 mix. Watch whether pastry-with-drink sales drop.
 - Track: drinks a day, the signature/regular/matcha mix, and weekday vs. weekend.
 

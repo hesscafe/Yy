@@ -6,20 +6,21 @@
 
 **The customer.** West Village locals and weekend visitors who want a matcha worth the walk and the photo. Second audience: 1-train commuters who want a quick coffee.
 
-**The offer.** "The 6am Matcha on Christopher St." Dessert-flavoured matcha (cheesecake, cherry pie, halva, apple strudel) and torched-meringue hot chocolate at $7.50, half-sweet on request. Plain matcha $7, with the grade and farm named and free tasting sips 6–9am on weekdays. Espresso drinks $5–7, a $4 Americano, Balthazar pastries $6. A free remake if you don't love it, a punch card (10th drink free) and a drink of the week.
+**The offer.** "The 6am Matcha on Christopher St." Dessert-flavoured matcha (cheesecake, cherry pie, halva, apple strudel) and torched-meringue hot chocolate at $8, half-sweet on request. Plain matcha $7, with the grade and farm named and free tasting sips 6–9am on weekdays. Espresso drinks $6–8, chai $6, a $4 Americano, Balthazar pastries $6. A free remake if you don't love it, a punch card (10th drink free) and a drink of the week.
 
 **The numbers** (CFO tool, `cfo.md`; volume is the founder's guess)
 
 | | |
 |---|---|
-| Left per drink | **$3.07** (49%) |
+| Average price (8 regular drinks) | **$6.94** |
+| Left per drink | **$3.49** (50%) |
 | Fixed costs | about **$140/month** (estimates) |
 | Break-even | **2 drinks a day** |
-| Profit margin at 60/day | **47%** |
-| Year 1 operating profit | **$50,203** on $106,639 revenue |
-| At 48/day (−20%) | $39,826 |
+| Profit margin at 60/day | **49%** |
+| Year 1 operating profit | **$57,301** on $117,286 revenue |
+| At 54/day (−10%) | $51,403 |
 | Cash needed to start | **$1,529** (earned back in month 1) |
-| Pay for founder + mom | about $25,100 each, about $12.70/hour before tax |
+| Pay for founder + mom | about $28,650 each, about $14.50/hour before tax |
 
 **The evidence.**
 - Buyer panel (simulated): 12 of 20 buy. 13 of 20 with the improved offer, and first-month purchases rose from 24 to 31. Residents buy 5 of 6, commuters 3 of 7.

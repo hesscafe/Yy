@@ -2,17 +2,17 @@
 
 **Verdict: Profitable**
 
-- ✓ Each drink earns $3.07 before fixed costs (49% contribution).
-- ✓ Year 1 operating profit: $50,203.
+- ✓ Each drink earns $3.49 before fixed costs (50% contribution).
+- ✓ Year 1 operating profit: $57,301.
 - ✓ Break-even is 2 drinks a day against a capacity of 150.
 - ✓ 12 of 20 simulated buyers buy (60%, the bar is 25%).
 
 | key number | |
 | --- | ---: |
-| Price | $6.31 a drink |
-| Profit margin at plan | 47% per drink |
+| Price | $6.94 a drink |
+| Profit margin at plan | 49% per drink |
 | Break-even | 2 drinks a day |
-| Year 1 operating profit | $50,203 |
+| Year 1 operating profit | $57,301 |
 | Startup spend | $1,529 |
 | Cash needed before it pays for itself | $1,529 |
 | Startup money earned back | month 1 |
@@ -32,12 +32,14 @@
 
 **Verdict: Profitable, on a guessed 60 drinks a day.** The verdict is computed, not written by hand, and all four checks pass. It rests on the founder's estimate of 60 drinks a day, which the 2-week test (Nov 30 – Dec 12) has to confirm.
 
-**The three numbers** (from `cfo.md`):
-- **Margin:** each drink leaves **$3.07** (49%). The profit margin at 60 a day is **47%**.
-- **Break-even:** **2 drinks a day.** Fixed costs are only about $140 a month: no fixed rent, no utilities, no wages.
-- **Year 1:** **$50,203** operating profit on $106,639 of revenue, ramping from 30 to 60 drinks a day over 6 months. At 48 a day it's $39,826, at 30 a day $24,261.
+**The menu (main plan):** regular espresso drinks +$1 (flat white and cortado $6, cappuccino $7.50, latte $8), plain matcha $7, chai $6, Americano $4, signature drinks $8, pastries $6. See `pricing.md`.
 
-**But it's your pay, not profit on top of pay.** $50,203 is about $25,100 each for you and your mom, or about **$12.70 an hour** before tax for ~76 hours a week together. That's below NYC's $17 minimum wage. Rent at 25%, more signature drinks and pastries would add about $5,000–6,500 a year each.
+**The three numbers** (from `cfo.md`):
+- **Margin:** each drink leaves **$3.49** (50%). The profit margin at 60 a day is **49%**.
+- **Break-even:** **2 drinks a day.** Fixed costs are only about $140 a month: no fixed rent, no utilities, no wages.
+- **Year 1:** **$57,301** operating profit on $117,286 of revenue, ramping from 30 to 60 drinks a day over 6 months. With 10% fewer drinks it's $51,403. At half the volume, $27,811.
+
+**But it's your pay, not profit on top of pay.** $57,301 is about $28,650 each for you and your mom, or about **$14.50 an hour** before tax for ~76 hours a week together. That's still below NYC's $17 minimum wage. Rent at 25% would add $5,746 a year, and pastries about $6,500.
 
 **The board (second review): 3 fund if, average 5.7 / 10** (up from 4.7). All three ask for the same things first: a signed deal with Mamali, a real named matcha, and a launch menu cut to 2 signature drinks.
 
@@ -88,6 +90,12 @@ The board would back a cheap, time-limited test, not the business as pitched. Be
 - [ ] Stand outside at 6am with the window set up and photograph it. Fix it if it still looks like a closed bar.
 - [ ] Run the 2-week test and judge on real numbers, plus a pay-per-hour line you set yourself.
 - [ ] Add a weekend tasting sip for visitors (Offers lens).
+
+### Price test: +$1 on every drink (2026-11-11)
+
+See `pricing-plus1.md`. Simulated buyers: 13 → **11 of 20** buy, purchases 31 → **28 (−10%)**. CFO at 60 drinks a day: year 1 **$61,526** (was $50,203). At the −10% the panel suggests: **$55,205**. The +$1 menu pays as long as fewer than about 18% of drinks are lost. **Suggestion:** raise regular drinks and signature drinks, but keep plain matcha at $7 and the Americano at $4, then test both menus in the 2-week test. The board has not re-voted on this.
+
+**Decision (founder, 2026-11-11): the mixed menu is the main plan.** Regular espresso drinks +$1, plain matcha $7, chai $6, Americano $4, signature drinks $8. CFO at 60 a day: $3.49 left per drink, **year 1 $57,301** (was $50,203). It beats the old prices unless more than about 12% of drinks are lost. Not re-tested on the panel.
 
 ### First meeting details
 
@@ -297,15 +305,22 @@ Buyers say they would buy **2.0 times** in the first month on average.
 
 ## Pricing
 
-### The price
+### The price (main plan: the mixed menu, chosen 2026-11-11)
 
-| Item | Price now | Recommended | Why |
-|---|---|---|---|
-| Regular espresso drinks (flat white, cortado, cappuccino, latte, iced latte) | $5–7 | **keep $5–7** | Inside the panel's acceptable range ($4.02–$8.00). Same as generic NYC specialty coffee ($5–8). |
-| Plain matcha latte (hot / iced) | $7 | **keep $7** | Inside the range and well below Matchaful's listed ~$12.59 ([DoorDash](https://www.doordash.com/en/business/matchaful-410320/menu/), 1 block away). |
-| Chai latte | $6 | keep $6 | Inside the range. |
-| **Signature lattes** (cheesecake / cherry pie matcha, halva, apple strudel) and **torched-meringue hot chocolate** | $8 | **test $7.50 against $8** | $8 is exactly the panel's PME (the point where too many say it is too expensive). $7.50 sits just inside the range. |
-| Pastries (Balthazar) | $5–6 | **$6 for anything that costs you $3** | At $5, a $3 pastry leaves about $0.27 after rent and fees. At $6, it leaves $0.94. |
+| Item | Was | **Now** | Left per drink | Why |
+|---|---|---|---|---|
+| Flat white, cortado | $5 | **$6** | $2.85 / $2.99 | +$1 is in line with nearby specialty coffee |
+| Cappuccino | $6.50 | **$7.50** | $3.79 | +$1 |
+| Latte, iced latte | $7 | **$8** | $4.06 / $4.24 | +$1 |
+| Plain matcha latte (hot / iced) | $7 | **$7** (no change) | $3.55 / $3.73 | The drink people taste and compare with Matchaful (~$12.59 listed). Buyers already put it near their limit |
+| Chai latte | $6 | **$6** (no change) | $2.70 | Already the weakest margin, but not an espresso drink |
+| $4 Americano | — | **$4** | about $1.76 | The commuter hook |
+| **Signature lattes and torched-meringue hot chocolate** | $8 | **$8** | depends on the extra cost (estimated $0.50–1.00) | At the top of the first panel's range; the +$1 test moved buyers' range up to $8.50, but they anchor to the menu shown |
+| Pastries (Balthazar) | $5–6 | **$6** | about $0.94–1.94 | At $5, a $3 pastry leaves about $0.27 |
+
+**Average price of the 8 regular drinks: $6.94** (was $6.31). Each drink leaves **$3.49** on average (was $3.07). See `cfo.md`.
+
+**Expected effect on buyers:** not re-tested on the panel. The full +$1 menu lost about 10% of purchases (`pricing-plus1.md`). The mixed menu keeps matcha, chai and the Americano unchanged, so the drop should be smaller, somewhere between 0% and 10%. The 2-week test will tell.
 
 **Margin per signature drink.** The extra cost of the flavourings and meringue isn't known yet, so it is **estimated at $0.50–$1.00** on top of the $1.02 matcha latte base:
 
@@ -320,9 +335,9 @@ Price sensitivity is in `pricing-curve.md` (20 simulated buyers): acceptable ran
 
 ### The ladder
 
-1. **Good:** regular espresso drink, $5–7. Fast, the commuter's coffee.
+1. **Good:** $4 Americano or a regular espresso drink, $6–8. Fast, the commuter's coffee.
 2. **Better:** plain matcha latte, $7. Name the grade and origin on the menu, which is what makes it worth $7.
-3. **Best:** signature latte or torched-meringue hot chocolate, $7.50–8. The photo drink.
+3. **Best:** signature latte or torched-meringue hot chocolate, $8. The photo drink.
 - **Add-on:** + pastry at $6. Don't discount the bundle. Pastry margins are already thin.
 - **Punch card:** 10th drink free. Rent is a share of revenue, so a free drink costs you only its ingredients, about $1. That's cheap loyalty.
 
@@ -334,7 +349,7 @@ Price sensitivity is in `pricing-curve.md` (20 simulated buyers): acceptable ran
 
 ### What to test with real buyers
 
-- **Signature price: $7.50 vs $8.** Alternate weeks on the menu board and count signature drinks sold per day at each price. Keep everything else the same.
+- **Signature price: $8 vs $7.50.** If signature sales are slow in week 1 at $8, try $7.50 in week 2 and compare money left per day, not just drinks sold.
 - **Pastry: $6 flat** vs. the current $5–6 mix. Watch whether pastry-with-drink sales drop.
 - Track: drinks a day, the signature/regular/matcha mix, and weekday vs. weekend.
 
@@ -393,7 +408,7 @@ Price sensitivity is in `pricing-curve.md` (20 simulated buyers): acceptable ran
 
 **Name: "The 6am Matcha on Christopher St."** Dessert-flavoured matcha you can try for free, at the subway exit, two hours before anyone else nearby opens for matcha.
 
-- **The core:** a signature dessert latte or torched-meringue hot chocolate, $7.50, made to look good and taste good. Half-sweet on request.
+- **The core:** a signature dessert latte or torched-meringue hot chocolate, $8 (main plan; see `pricing.md`), made to look good and taste good. Half-sweet on request.
 - **Bonus 1, the free taste:** sips of the plain matcha latte, 6–9am weekdays. The menu names the grade and farm. This answers "is the matcha good?" before anyone pays.
 - **Bonus 2, the commuter lane:** a $4 Americano and regular espresso drinks served first during the rush.
 - **Bonus 3, the punch card:** 10th drink free, with double stamps for the first 2 weeks.
@@ -447,37 +462,31 @@ Same 20 simulated buyers (seed 320801), shown the new pitch (`pitch.md`, old one
 
 ## The numbers
 
-> **Built on a guess: 60 drinks a day** (the founder's estimate, not yet tested). The real number comes from the 2-week test (Nov 30 – Dec 12). The ramp (30 → 60 over 6 months) is also an estimate. The panel can't size it: it measures who buys and how often (about 2.4 times in the first month per buyer), not how many people walk past.
+> **Built on a guess: 60 drinks a day** (the founder's estimate, not yet tested). The real number comes from the 2-week test (Nov 30 – Dec 12). The ramp (30 → 60 over 6 months) is also an estimate. Earlier runs: current prices in `cfo-v1-current-prices.md`, +$1 on everything in `cfo-plus1.md`.
 
-**The margin.** Each drink leaves **$3.07** (49% of the $6.31 average price) after ingredients and cup ($1.04), the 30% rent ($1.89) and Square's fee ($0.31). Fixed costs are only about **$140 a month** (insurance and supplies, both estimates), so break-even is **2 drinks a day**. At 60 a day the profit margin is **47%**. **Year 1: $50,203** operating profit on $106,639 of revenue.
+**The menu:** regular espresso drinks +$1 (flat white and cortado $6, cappuccino $7.50, latte and iced latte $8). Plain matcha stays $7, chai $6, Americano $4, signature drinks $8. The average of the 8 drinks on the founder's cost sheet is **$6.94**.
 
-**What that means for the two of you.** No wages are in these numbers, so the profit *is* your pay. $50,203 split between the founder and your mom is about **$25,100 each for the year**, before income tax and self-employment tax. At about 76 hours a week combined (`ops.md`), that's about **$12.70 an hour**, under NYC's $17 minimum wage. At the full 60 a day (from month 6), it's about $4,650 a month, or about $14 an hour.
+**The margin.** Each drink leaves **$3.49** (50% of the price) after ingredients and cup ($1.04), the 30% rent ($2.08) and Square's fee ($0.33). Fixed costs are about **$140 a month** (estimates), so break-even is **2 drinks a day**. At 60 a day the profit margin is **49%**. **Year 1: $57,301** operating profit on $117,286 of revenue.
 
-**The line to watch: daily volume.** Price and rent are fixed by your menu and the deal. Volume is the guess.
+**What that means for the two of you.** The profit is your pay. $57,301 is about **$28,650 each for the year**, or about **$14.50 an hour** for ~76 hours a week together, before income and self-employment tax. Still under NYC's $17 minimum wage. At the full 60 a day (from month 6), it's about $5,300 a month, or about $16 an hour.
+
+**The line to watch: daily volume.**
 
 | Drinks a day (at plan) | Year 1 profit |
 |---|---|
-| 60 (base) | $50,203 |
-| 48 (−20%) | $39,826 |
-| 30 (−50%) | $24,261 |
+| 60 (base) | $57,301 |
+| 57 (−5%) | $54,352 |
+| 54 (−10%, the full +$1 menu's drop on the panel) | $51,403 |
+| 48 (−20%) | $45,505 |
+| 30 (−50%) | $27,811 |
 
-**Cash.** You need about **$1,529** before it pays for itself, inside your $2,000 budget. It's earned back in month 1 even at 30 drinks a day.
+The mixed menu beats the old prices ($50,203) as long as you lose **fewer than about 12% of drinks**.
 
-**Three ways to improve the margin** (each run through the tool):
-1. **Negotiate rent to 25%** instead of 30%. Each drink leaves $3.38 instead of $3.07, so year 1 goes from $50,203 to **$55,442 (+$5,239)**.
-2. **Sell more signature drinks.** If the mix lifts the average price to $6.80 (with ingredients up to $1.25 an estimate), year 1 goes to **$52,062 (+$1,859)**.
-3. **Sell pastries with drinks** (by hand, not in the tool): at $6 with a $2.50 buy price, each leaves about $1.39. At 15 a day, that's about **+$6,500 a year**.
+**Cash.** About **$1,529** before it pays for itself, inside your $2,000 budget. Earned back in month 1.
 
-**Downside check:** price −10% (with rent and fees scaled to the lower price) gives $42,936. The tool's built-in "price −10%" row doesn't lower the rent with the price, so it shows a slightly worse $39,539.
+**Ways to improve it further:** negotiate rent to 25% (year 1 goes to $63,047, **+$5,746**, run through the tool), sell pastries with drinks (about +$6,500 a year at 15 a day, by hand), and push signature drinks at $8.
 
-**Board money conditions:**
-- Cost per drink: ✅ known for the 8 regular drinks.
-- Signature drink costs: ❌ still estimated, and the signature drinks aren't in this mix (they would raise both price and cost).
-- Matcha cost: ❌ not checked against a supplier quote.
-- Daily volume: ❌ guessed.
-- Pay line: the board asked for one. At 60 a day, it's about $12.70 an hour each.
-
-**Not included:** sales tax (8.875%, assumed added on top of menu prices — if your prices *include* tax, revenue is about 8% lower), pastries, income and self-employment tax. An accountant should check the structure, payroll for your mom, and tax before money moves. Not financial, tax or legal advice.
+**Not included:** the signature drinks and the Americano (not on the cost sheet), pastries, sales tax (assumed added on top), income and self-employment tax. An accountant should check the structure, your mom's setup and tax. Not financial, tax or legal advice.
 
 ---
 
@@ -489,39 +498,39 @@ Every number below comes from the input file. Nothing is looked up or guessed.
 
 | line | per drink |
 | --- | ---: |
-| Price | $6.31 |
+| Price | $6.94 |
 | Ingredients + cup (avg of founder's 8-drink cost sheet) | -$1.04 |
-| Rent: 30% revenue share to Mamali | -$1.89 |
-| Card fee: Square 2.6% + $0.15 | -$0.31 |
-| **Contribution** (what each drink leaves to pay the fixed costs) | **$3.07** (49%) |
+| Rent: 30% revenue share to Mamali | -$2.08 |
+| Card fee: Square 2.6% + $0.15 | -$0.33 |
+| **Contribution** (what each drink leaves to pay the fixed costs) | **$3.49** (50%) |
 
 ### The margin that matters
 
 Fixed costs: $140 a month (General liability insurance (ESTIMATE, get a quote) $80, Cleaning supplies, napkins, butane, punch cards (ESTIMATE) $60, Wages (founder + mom, unpaid) $0, Utilities (included by Mamali) $0).
 
 - **Break-even: 2 drinks a day.** Below that you lose money every month.
-- **Profit margin at your plan** (60 a day): **47%** of every sale, after every cost.
+- **Profit margin at your plan** (60 a day): **49%** of every sale, after every cost.
 - Capacity: 150 a day.
 
 ### Year 1, month by month
 
 | month | drinks a day | revenue | profit | cumulative (after $1,529 startup) |
 | ---: | ---: | ---: | ---: | ---: |
-| 1 | 30 | $4,922 | $2,255 | $726 |
-| 2 | 40 | $6,562 | $3,053 | $3,778 |
-| 3 | 48 | $7,875 | $3,691 | $7,470 |
-| 4 | 54 | $8,859 | $4,170 | $11,640 |
-| 5 | 58 | $9,515 | $4,490 | $16,130 |
-| 6 | 60 | $9,844 | $4,649 | $20,779 |
-| 7 | 60 | $9,844 | $4,649 | $25,428 |
-| 8 | 60 | $9,844 | $4,649 | $30,077 |
-| 9 | 60 | $9,844 | $4,649 | $34,726 |
-| 10 | 60 | $9,844 | $4,649 | $39,376 |
-| 11 | 60 | $9,844 | $4,649 | $44,025 |
-| 12 | 60 | $9,844 | $4,649 | $48,674 |
+| 1 | 30 | $5,413 | $2,582 | $1,053 |
+| 2 | 40 | $7,218 | $3,490 | $4,543 |
+| 3 | 48 | $8,661 | $4,216 | $8,758 |
+| 4 | 54 | $9,744 | $4,760 | $13,518 |
+| 5 | 58 | $10,466 | $5,123 | $18,641 |
+| 6 | 60 | $10,826 | $5,304 | $23,946 |
+| 7 | 60 | $10,826 | $5,304 | $29,250 |
+| 8 | 60 | $10,826 | $5,304 | $34,554 |
+| 9 | 60 | $10,826 | $5,304 | $39,859 |
+| 10 | 60 | $10,826 | $5,304 | $45,163 |
+| 11 | 60 | $10,826 | $5,304 | $50,468 |
+| 12 | 60 | $10,826 | $5,304 | $55,772 |
 
-- **Year 1 operating profit: $50,203** on $106,639 of revenue.
-- After the $1,529 startup spend: $48,674.
+- **Year 1 operating profit: $57,301** on $117,286 of revenue.
+- After the $1,529 startup spend: $55,772.
 - Startup money earned back: month 1.
 - Cash you need before it pays for itself: **$1,529**.
 
@@ -529,10 +538,10 @@ Fixed costs: $140 a month (General liability insurance (ESTIMATE, get a quote) $
 
 | scenario | margin at plan | break-even a day | year 1 profit |
 | --- | ---: | ---: | ---: |
-| Base plan | 47% | 2 | $50,203 |
-| Price -10% | 41% | 3 | $39,539 |
-| Volume -20% | 47% | 2 | $39,826 |
-| Unit costs +15% | 40% | 3 | $41,990 |
+| Base plan | 49% | 2 | $57,301 |
+| Price -10% | 43% | 2 | $45,572 |
+| Volume -20% | 49% | 2 | $45,505 |
+| Unit costs +15% | 42% | 2 | $48,555 |
 
 No red flags in these numbers. They are only as good as the inputs: check every cost against a real quote.
 
@@ -611,7 +620,7 @@ Built from `panel/results.md` and `panel-v2/results.md` (20 simulated buyers), `
 
 - Each drink leaves about **$3.12** on average (`pricing.md` / the cost sheet).
 - In the re-test, buyers said they'd buy about **2.4 times in the first month** (31 purchases ÷ 13 buyers).
-- So a new customer is worth about **$3.12 × 2.4 ≈ $7.50** in month one, before income tax.
+- So a new customer is worth about **$3.49 × 2.4 ≈ $8.40** in month one, before income tax (mixed menu, `cfo.md`).
 - **Spend no more than about $5 to win one customer** for now. That's why the plan uses free drinks (costing about $1 in ingredients) and the window, not paid ads.
 
 ### Three numbers to watch every week
