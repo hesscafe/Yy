@@ -46,6 +46,8 @@ See `pricing-plus1.md`. Simulated buyers: 13 → **11 of 20** buy, purchases 31 
 
 See `rent-options.md`. At 60 drinks a day: 30% of sales = $55,780, **25% = $61,526**, **flat $4,000 = $42,256** (break-even rises from 2 to 30 drinks a day, and 30 a day becomes a loss). "$4,000 or 25%, whichever is higher" = the flat $4,000 until about 90 drinks a day. Ask for 25% with no minimum. The main plan still uses 30%.
 
+**$2,500 minimum:** 25% with a $2,500 minimum = $59,147 at 60 a day (break-even 19 drinks a day; at 30 a day the year drops to $14,313). Acceptable only with 25% and a minimum that starts in month 3. Avoid 30% plus a minimum.
+
 ## First meeting details
 
 ## Risks raised by more than one member (most serious first)

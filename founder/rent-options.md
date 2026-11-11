@@ -20,3 +20,23 @@ All at the current menu (average $6.81 a drink), the guessed 60 drinks a day, a 
 ## Recommendation
 
 Ask Mamali for **25% of sales, with no minimum**. If they insist on a minimum, keep it low (for example, $1,500–2,000 a month) and start it only after the 2-week test, once you know your real volume. Don't sign a flat $4,000 or a $4,000 minimum before you've seen real numbers.
+
+## With a $2,500 minimum (the greater of $2,500 or the percentage)
+
+Calculated by hand, month by month, the same way as above (within about $50 of the CFO tool).
+
+| Year 1 profit | 30%, no minimum | **30%, $2,500 min** | 25%, no minimum | **25%, $2,500 min** |
+|---|---|---|---|---|
+| 60 a day (plan) | $55,780 | **$54,497** | $61,533 | **$59,147** |
+| 54 a day (−10%) | $50,034 | $48,174 | $55,212 | $51,107 |
+| 48 a day (−20%) | $44,288 | $41,561 | $48,891 | $41,909 |
+| 30 a day (−50%) | $27,050 | **$14,313** | $29,927 | **$14,313** |
+| Month 1 (30 a day) | $2,512 | $1,605 | $2,778 | $1,605 |
+| Break-even | 2 a day | **19 a day** | 2 a day | **19 a day** |
+
+- **The minimum only matters when sales are low.** With 30%, you pay more than $2,500 anyway from about **47 drinks a day**. With 25%, from about **57 a day**.
+- **It costs you most in the first months**, while you're building up. At 30 a day you pay $2,500 instead of about $1,600 (30%) or $1,330 (25%). Month 1 drops from about $2,500 profit to about $1,600.
+- **If sales stay at half your guess,** the minimum cuts the year from about $27,000–30,000 to about **$14,300**. Below about 19 drinks a day, you'd lose money.
+- **25% with a $2,500 minimum is still better than 30% with no minimum** at 60 a day (+$3,367), and about the same at 54 a day. At lower volumes it's worse.
+
+**Recommendation:** a $2,500 minimum is acceptable if you get 25% (not 30%) with it, and ask for it to **start in month 3 or after the 2-week test**, so the ramp-up months aren't squeezed. Avoid 30% plus a $2,500 minimum. That's the worst of both: you keep the higher share and take on the risk.
